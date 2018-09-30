@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Platform.fs" />
+    <Compile Include="UiComponents.fs" />
+    <Compile Include="ViewModels.fs" />
+    <Compile Include="Views.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.Xamarin.SfCarousel" Version="16.3.0.21" />
+    <PackageReference Include="System.Threading.Tasks.Extensions" Version="4.4.0" />
+    <PackageReference Include="XamarinForms.Reactive.FSharp" Version="1.0.0.33" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Update="FSharp.Core" Version="4.5.2" />
+  </ItemGroup>
+
+</Project>
