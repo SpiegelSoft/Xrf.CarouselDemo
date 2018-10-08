@@ -16,7 +16,7 @@ type DashboardView(theme: Theme) =
         theme.GenerateGrid([Star 1], [Star 1]) |> withRow(
             [|
                 theme.GenerateCarousel()
-                    |> withCarouselItemsSource this.ViewModel.PageDisposables this.ViewModel.Images
+                    |> withCarouselItemsSource this.ViewModel.Images
                     |> withHeightAndWidthRequest 200.0 200.0
                     |> withCarouselItemTemplate(fun () -> PostcardDisplay(theme) :> View)
             |]) |> createFromRows :> View

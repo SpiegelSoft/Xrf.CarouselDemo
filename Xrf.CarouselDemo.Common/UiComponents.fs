@@ -46,11 +46,7 @@ module ViewHelpers =
     open ReactiveUI
     open Xamarin.Forms
 
-    let withCarouselItemsSource disposables (source:ReactiveList<'a>) (element: #SfCarousel) = 
-        let populateElement() = match source.Count > 0 with | true -> element.ItemsSource <- source.ToArray() |> Seq.cast<obj> | false -> ()
-        populateElement()
-        source.ItemsAdded.Subscribe(fun _ -> populateElement()) |> disposeWith disposables |> ignore
-        element
+    let withCarouselItemsSource (source:'a seq) (element: #SfCarousel) = element.ItemsSource <- source |> Seq.cast<obj>; element
     let withSelectedIndex selectedIndex (element: #SfCarousel) = element.SelectedIndex <- selectedIndex; element
     let withItemSpacing spacing (element: #SfCarousel) = element.ItemSpacing <- spacing; element
     let withFlowDirection flowDirection (element: #SfCarousel) = element.FlowDirection <- flowDirection; element
