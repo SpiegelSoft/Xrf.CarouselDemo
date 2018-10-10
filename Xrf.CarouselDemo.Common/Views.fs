@@ -2,6 +2,7 @@
 
 open XamarinForms.Reactive.FSharp
 
+open Syncfusion.SfCarousel.XForms
 open Themes
 open Xamarin.Forms
 open Xrf.Carousel.Common
@@ -17,6 +18,5 @@ type DashboardView(theme: Theme) =
             [|
                 theme.GenerateCarousel()
                     |> withCarouselItemsSource this.ViewModel.Images
-                    |> withHeightAndWidthRequest 200.0 200.0
                     |> withCarouselItemTemplate(fun () -> PostcardDisplay(theme) :> View)
             |]) |> createFromRows :> View

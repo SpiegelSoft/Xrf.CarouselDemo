@@ -1,4 +1,4 @@
-﻿namespace Xrf.Carousel.Common
+﻿namespace Xrf.CarouselDemo.Common
 
 open XamarinForms.Reactive.FSharp.Themes
 open Xamarin.Forms
@@ -11,21 +11,21 @@ type Postcard() =
     member val Description = String.Empty with get, set
 
 type PostcardDisplay(theme: Theme) =
-    inherit StackLayout()
+    inherit Grid()
     let image = theme.GenerateImage()
     let descriptionLabel = 
         theme.GenerateLabel() 
             |> withHorizontalTextAlignment TextAlignment.Center 
             |> withHorizontalOptions LayoutOptions.CenterAndExpand 
     do 
-        base.Orientation <- StackOrientation.Vertical
-        base.Children.Add image
-        base.Children.Add descriptionLabel
+        base.Children.Add image; Grid.SetRow(image, 0); Grid.SetColumn(image, 0)
+        base.Children.Add descriptionLabel; Grid.SetRow(descriptionLabel, 1); Grid.SetColumn(descriptionLabel, 0)
+        base.WidthRequest <- 400.0
     override this.OnBindingContextChanged() =
         base.OnBindingContextChanged()
-        match this.BindingContext with 
+        match box this.BindingContext with 
         | :? Postcard as postcard -> 
-            image.Source <- ImageSource.FromResource postcard.Image
+            image.Source <- ImageSource.FromFile postcard.Image
             descriptionLabel.Text <- postcard.Description
         | _ -> 
             image.Source <- null

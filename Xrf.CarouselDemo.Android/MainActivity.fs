@@ -33,7 +33,7 @@ type DroidPlatform(mainActivity: Activity) =
 open Xrf.CarouselDemo.Common
 open ReactiveUI
 
-[<Activity (Label = "Xfr.CarouselDemo", MainLauncher = true, Icon = "@drawable/icon")>]
+[<Activity (Label = "Xrf.CarouselDemo", MainLauncher = true, Icon = "@drawable/icon")>]
 type MainActivity () =
     inherit FormsApplicationActivity ()
     let createDashboardViewModel() = new DashboardViewModel() :> IRoutableViewModel

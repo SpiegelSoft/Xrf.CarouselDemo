@@ -26,1226 +26,6 @@ namespace Xrf.CarouselDemo.Android
 		
 		public static void UpdateIdValues()
 		{
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_guidedactions_item_pressed = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_guidedactions_item_pressed;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_guidedactions_item_unpressed = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_guidedactions_item_unpressed;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_guidedstep_slide_down = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_guidedstep_slide_down;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_guidedstep_slide_up = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_guidedstep_slide_up;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_onboarding_description_enter = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_onboarding_description_enter;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_onboarding_logo_enter = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_onboarding_logo_enter;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_onboarding_logo_exit = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_onboarding_logo_exit;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_onboarding_page_indicator_enter = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_onboarding_page_indicator_enter;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_onboarding_page_indicator_fade_in = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_onboarding_page_indicator_fade_in;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_onboarding_page_indicator_fade_out = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_onboarding_page_indicator_fade_out;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_onboarding_start_button_fade_in = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_onboarding_start_button_fade_in;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_onboarding_start_button_fade_out = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_onboarding_start_button_fade_out;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_onboarding_title_enter = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_onboarding_title_enter;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_playback_bg_fade_in = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_playback_bg_fade_in;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_playback_bg_fade_out = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_playback_bg_fade_out;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_playback_controls_fade_in = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_playback_controls_fade_in;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_playback_controls_fade_out = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_playback_controls_fade_out;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_playback_description_fade_in = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_playback_description_fade_in;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_playback_description_fade_out = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_playback_description_fade_out;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_playback_rows_fade_in = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_playback_rows_fade_in;
-			global::Com.Syncfusion.Carousel.Resource.Animator.lb_playback_rows_fade_out = global::Xrf.CarouselDemo.Android.Resource.Animator.lb_playback_rows_fade_out;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.activatedAnimationDuration = global::Xrf.CarouselDemo.Android.Resource.Attribute.activatedAnimationDuration;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.arrowBgColor = global::Xrf.CarouselDemo.Android.Resource.Attribute.arrowBgColor;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.arrowRadius = global::Xrf.CarouselDemo.Android.Resource.Attribute.arrowRadius;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.baseCardViewStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.baseCardViewStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.browsePaddingBottom = global::Xrf.CarouselDemo.Android.Resource.Attribute.browsePaddingBottom;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.browsePaddingEnd = global::Xrf.CarouselDemo.Android.Resource.Attribute.browsePaddingEnd;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.browsePaddingStart = global::Xrf.CarouselDemo.Android.Resource.Attribute.browsePaddingStart;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.browsePaddingTop = global::Xrf.CarouselDemo.Android.Resource.Attribute.browsePaddingTop;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.browseRowsFadingEdgeLength = global::Xrf.CarouselDemo.Android.Resource.Attribute.browseRowsFadingEdgeLength;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.browseRowsMarginStart = global::Xrf.CarouselDemo.Android.Resource.Attribute.browseRowsMarginStart;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.browseRowsMarginTop = global::Xrf.CarouselDemo.Android.Resource.Attribute.browseRowsMarginTop;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.browseTitleIconStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.browseTitleIconStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.browseTitleTextStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.browseTitleTextStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.browseTitleViewLayout = global::Xrf.CarouselDemo.Android.Resource.Attribute.browseTitleViewLayout;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.browseTitleViewStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.browseTitleViewStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.cardBackground = global::Xrf.CarouselDemo.Android.Resource.Attribute.cardBackground;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.cardForeground = global::Xrf.CarouselDemo.Android.Resource.Attribute.cardForeground;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.cardType = global::Xrf.CarouselDemo.Android.Resource.Attribute.cardType;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.carouselAllowLoadMore = global::Xrf.CarouselDemo.Android.Resource.Attribute.carouselAllowLoadMore;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.carouselDuration = global::Xrf.CarouselDemo.Android.Resource.Attribute.carouselDuration;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.carouselEnableVirtualization = global::Xrf.CarouselDemo.Android.Resource.Attribute.carouselEnableVirtualization;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.carouselItemHeight = global::Xrf.CarouselDemo.Android.Resource.Attribute.carouselItemHeight;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.carouselItemSpacing = global::Xrf.CarouselDemo.Android.Resource.Attribute.carouselItemSpacing;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.carouselItemWidth = global::Xrf.CarouselDemo.Android.Resource.Attribute.carouselItemWidth;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.carouselLoadMoreItemsCount = global::Xrf.CarouselDemo.Android.Resource.Attribute.carouselLoadMoreItemsCount;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.carouselOffset = global::Xrf.CarouselDemo.Android.Resource.Attribute.carouselOffset;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.carouselRotationAngle = global::Xrf.CarouselDemo.Android.Resource.Attribute.carouselRotationAngle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.carouselScaleOffset = global::Xrf.CarouselDemo.Android.Resource.Attribute.carouselScaleOffset;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.carouselSelectedIndex = global::Xrf.CarouselDemo.Android.Resource.Attribute.carouselSelectedIndex;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.carouselSelectedItemOffset = global::Xrf.CarouselDemo.Android.Resource.Attribute.carouselSelectedItemOffset;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.carouselViewMode = global::Xrf.CarouselDemo.Android.Resource.Attribute.carouselViewMode;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.closed_captioning = global::Xrf.CarouselDemo.Android.Resource.Attribute.closed_captioning;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.columnWidth = global::Xrf.CarouselDemo.Android.Resource.Attribute.columnWidth;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.datePickerFormat = global::Xrf.CarouselDemo.Android.Resource.Attribute.datePickerFormat;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.defaultBrandColor = global::Xrf.CarouselDemo.Android.Resource.Attribute.defaultBrandColor;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.defaultBrandColorDark = global::Xrf.CarouselDemo.Android.Resource.Attribute.defaultBrandColorDark;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.defaultSearchBrightColor = global::Xrf.CarouselDemo.Android.Resource.Attribute.defaultSearchBrightColor;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.defaultSearchColor = global::Xrf.CarouselDemo.Android.Resource.Attribute.defaultSearchColor;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.defaultSearchIcon = global::Xrf.CarouselDemo.Android.Resource.Attribute.defaultSearchIcon;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.defaultSearchIconColor = global::Xrf.CarouselDemo.Android.Resource.Attribute.defaultSearchIconColor;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.defaultSectionHeaderColor = global::Xrf.CarouselDemo.Android.Resource.Attribute.defaultSectionHeaderColor;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.detailsActionButtonStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.detailsActionButtonStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.detailsDescriptionBodyStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.detailsDescriptionBodyStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.detailsDescriptionSubtitleStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.detailsDescriptionSubtitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.detailsDescriptionTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.detailsDescriptionTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.dotBgColor = global::Xrf.CarouselDemo.Android.Resource.Attribute.dotBgColor;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.dotToArrowGap = global::Xrf.CarouselDemo.Android.Resource.Attribute.dotToArrowGap;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.dotToDotGap = global::Xrf.CarouselDemo.Android.Resource.Attribute.dotToDotGap;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.errorMessageStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.errorMessageStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.extraVisibility = global::Xrf.CarouselDemo.Android.Resource.Attribute.extraVisibility;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.fast_forward = global::Xrf.CarouselDemo.Android.Resource.Attribute.fast_forward;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.focusOutEnd = global::Xrf.CarouselDemo.Android.Resource.Attribute.focusOutEnd;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.focusOutFront = global::Xrf.CarouselDemo.Android.Resource.Attribute.focusOutFront;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.focusOutSideEnd = global::Xrf.CarouselDemo.Android.Resource.Attribute.focusOutSideEnd;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.focusOutSideStart = global::Xrf.CarouselDemo.Android.Resource.Attribute.focusOutSideStart;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidanceBreadcrumbStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidanceBreadcrumbStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidanceContainerStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidanceContainerStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidanceDescriptionStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidanceDescriptionStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidanceEntryAnimation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidanceEntryAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidanceIconStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidanceIconStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidanceTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidanceTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionCheckedAnimation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionCheckedAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionContentWidth = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionContentWidth;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionContentWidthNoIcon = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionContentWidthNoIcon;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionContentWidthWeight = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionContentWidthWeight;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionContentWidthWeightTwoPanels = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionContentWidthWeightTwoPanels;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionDescriptionMinLines = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionDescriptionMinLines;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionDisabledChevronAlpha = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionDisabledChevronAlpha;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionEnabledChevronAlpha = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionEnabledChevronAlpha;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionItemCheckmarkStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionItemCheckmarkStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionItemChevronStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionItemChevronStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionItemContainerStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionItemContainerStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionItemContentStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionItemContentStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionItemDescriptionStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionItemDescriptionStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionItemIconStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionItemIconStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionItemTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionItemTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionPressedAnimation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionPressedAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionTitleMaxLines = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionTitleMaxLines;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionTitleMinLines = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionTitleMinLines;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionUncheckedAnimation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionUncheckedAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionUnpressedAnimation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionUnpressedAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionVerticalPadding = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionVerticalPadding;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionsBackground = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionsBackground;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionsBackgroundDark = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionsBackgroundDark;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionsContainerStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionsContainerStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionsElevation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionsElevation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionsEntryAnimation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionsEntryAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionsListStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionsListStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionsSelectorDrawable = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionsSelectorDrawable;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionsSelectorHideAnimation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionsSelectorHideAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionsSelectorShowAnimation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionsSelectorShowAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedActionsSelectorStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedActionsSelectorStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedButtonActionsListStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedButtonActionsListStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedButtonActionsWidthWeight = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedButtonActionsWidthWeight;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedStepBackground = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedStepBackground;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedStepEntryAnimation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedStepEntryAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedStepExitAnimation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedStepExitAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedStepHeightWeight = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedStepHeightWeight;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedStepImeAppearingAnimation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedStepImeAppearingAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedStepImeDisappearingAnimation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedStepImeDisappearingAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedStepKeyline = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedStepKeyline;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedStepReentryAnimation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedStepReentryAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedStepReturnAnimation = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedStepReturnAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedStepTheme = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedStepTheme;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedStepThemeFlag = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedStepThemeFlag;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.guidedSubActionsListStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.guidedSubActionsListStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.headerStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.headerStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.headersVerticalGridStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.headersVerticalGridStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.high_quality = global::Xrf.CarouselDemo.Android.Resource.Attribute.high_quality;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.horizontalMargin = global::Xrf.CarouselDemo.Android.Resource.Attribute.horizontalMargin;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.imageCardViewBadgeStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.imageCardViewBadgeStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.imageCardViewContentStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.imageCardViewContentStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.imageCardViewImageStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.imageCardViewImageStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.imageCardViewInfoAreaStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.imageCardViewInfoAreaStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.imageCardViewStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.imageCardViewStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.imageCardViewTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.imageCardViewTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.infoAreaBackground = global::Xrf.CarouselDemo.Android.Resource.Attribute.infoAreaBackground;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.infoVisibility = global::Xrf.CarouselDemo.Android.Resource.Attribute.infoVisibility;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.is24HourFormat = global::Xrf.CarouselDemo.Android.Resource.Attribute.is24HourFormat;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.itemsVerticalGridStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.itemsVerticalGridStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.layoutManager = global::Xrf.CarouselDemo.Android.Resource.Attribute.layoutManager;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.layout_viewType = global::Xrf.CarouselDemo.Android.Resource.Attribute.layout_viewType;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.lbDotRadius = global::Xrf.CarouselDemo.Android.Resource.Attribute.lbDotRadius;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.lbImageCardViewType = global::Xrf.CarouselDemo.Android.Resource.Attribute.lbImageCardViewType;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.lb_slideEdge = global::Xrf.CarouselDemo.Android.Resource.Attribute.lb_slideEdge;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.maintainLineSpacing = global::Xrf.CarouselDemo.Android.Resource.Attribute.maintainLineSpacing;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.numberOfColumns = global::Xrf.CarouselDemo.Android.Resource.Attribute.numberOfColumns;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.numberOfRows = global::Xrf.CarouselDemo.Android.Resource.Attribute.numberOfRows;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.onboardingDescriptionStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.onboardingDescriptionStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.onboardingHeaderStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.onboardingHeaderStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.onboardingLogoStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.onboardingLogoStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.onboardingNavigatorContainerStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.onboardingNavigatorContainerStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.onboardingPageIndicatorStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.onboardingPageIndicatorStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.onboardingStartButtonStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.onboardingStartButtonStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.onboardingTheme = global::Xrf.CarouselDemo.Android.Resource.Attribute.onboardingTheme;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.onboardingTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.onboardingTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.overlayDimActiveLevel = global::Xrf.CarouselDemo.Android.Resource.Attribute.overlayDimActiveLevel;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.overlayDimDimmedLevel = global::Xrf.CarouselDemo.Android.Resource.Attribute.overlayDimDimmedLevel;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.overlayDimMaskColor = global::Xrf.CarouselDemo.Android.Resource.Attribute.overlayDimMaskColor;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.pause = global::Xrf.CarouselDemo.Android.Resource.Attribute.pause;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.picture_in_picture = global::Xrf.CarouselDemo.Android.Resource.Attribute.picture_in_picture;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.play = global::Xrf.CarouselDemo.Android.Resource.Attribute.play;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackControlButtonLabelStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackControlButtonLabelStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackControlsActionIcons = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackControlsActionIcons;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackControlsButtonStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackControlsButtonStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackControlsIconHighlightColor = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackControlsIconHighlightColor;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackControlsTimeStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackControlsTimeStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackMediaItemDetailsStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackMediaItemDetailsStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackMediaItemDurationStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackMediaItemDurationStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackMediaItemNameStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackMediaItemNameStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackMediaItemNumberStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackMediaItemNumberStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackMediaItemNumberViewFlipperLayout = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackMediaItemNumberViewFlipperLayout;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackMediaItemNumberViewFlipperStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackMediaItemNumberViewFlipperStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackMediaItemPaddingStart = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackMediaItemPaddingStart;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackMediaItemRowStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackMediaItemRowStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackMediaItemSeparatorStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackMediaItemSeparatorStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackMediaListHeaderStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackMediaListHeaderStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackMediaListHeaderTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackMediaListHeaderTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackPaddingEnd = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackPaddingEnd;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackPaddingStart = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackPaddingStart;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.playbackProgressPrimaryColor = global::Xrf.CarouselDemo.Android.Resource.Attribute.playbackProgressPrimaryColor;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.repeat = global::Xrf.CarouselDemo.Android.Resource.Attribute.repeat;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.repeat_one = global::Xrf.CarouselDemo.Android.Resource.Attribute.repeat_one;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.resizeTrigger = global::Xrf.CarouselDemo.Android.Resource.Attribute.resizeTrigger;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.resizedPaddingAdjustmentBottom = global::Xrf.CarouselDemo.Android.Resource.Attribute.resizedPaddingAdjustmentBottom;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.resizedPaddingAdjustmentTop = global::Xrf.CarouselDemo.Android.Resource.Attribute.resizedPaddingAdjustmentTop;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.resizedTextSize = global::Xrf.CarouselDemo.Android.Resource.Attribute.resizedTextSize;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.reverseLayout = global::Xrf.CarouselDemo.Android.Resource.Attribute.reverseLayout;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.rewind = global::Xrf.CarouselDemo.Android.Resource.Attribute.rewind;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.rowHeaderDescriptionStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.rowHeaderDescriptionStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.rowHeaderDockStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.rowHeaderDockStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.rowHeaderStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.rowHeaderStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.rowHeight = global::Xrf.CarouselDemo.Android.Resource.Attribute.rowHeight;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.rowHorizontalGridStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.rowHorizontalGridStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.rowHoverCardDescriptionStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.rowHoverCardDescriptionStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.rowHoverCardTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.rowHoverCardTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.rowsVerticalGridStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.rowsVerticalGridStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.searchOrbBrightColor = global::Xrf.CarouselDemo.Android.Resource.Attribute.searchOrbBrightColor;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.searchOrbColor = global::Xrf.CarouselDemo.Android.Resource.Attribute.searchOrbColor;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.searchOrbIcon = global::Xrf.CarouselDemo.Android.Resource.Attribute.searchOrbIcon;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.searchOrbIconColor = global::Xrf.CarouselDemo.Android.Resource.Attribute.searchOrbIconColor;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.searchOrbViewStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.searchOrbViewStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.sectionHeaderStyle = global::Xrf.CarouselDemo.Android.Resource.Attribute.sectionHeaderStyle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.selectedAnimationDelay = global::Xrf.CarouselDemo.Android.Resource.Attribute.selectedAnimationDelay;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.selectedAnimationDuration = global::Xrf.CarouselDemo.Android.Resource.Attribute.selectedAnimationDuration;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.shuffle = global::Xrf.CarouselDemo.Android.Resource.Attribute.shuffle;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.skip_next = global::Xrf.CarouselDemo.Android.Resource.Attribute.skip_next;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.skip_previous = global::Xrf.CarouselDemo.Android.Resource.Attribute.skip_previous;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.spanCount = global::Xrf.CarouselDemo.Android.Resource.Attribute.spanCount;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.stackFromEnd = global::Xrf.CarouselDemo.Android.Resource.Attribute.stackFromEnd;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.thumb_down = global::Xrf.CarouselDemo.Android.Resource.Attribute.thumb_down;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.thumb_down_outline = global::Xrf.CarouselDemo.Android.Resource.Attribute.thumb_down_outline;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.thumb_up = global::Xrf.CarouselDemo.Android.Resource.Attribute.thumb_up;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.thumb_up_outline = global::Xrf.CarouselDemo.Android.Resource.Attribute.thumb_up_outline;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.useCurrentTime = global::Xrf.CarouselDemo.Android.Resource.Attribute.useCurrentTime;
-			global::Com.Syncfusion.Carousel.Resource.Attribute.verticalMargin = global::Xrf.CarouselDemo.Android.Resource.Attribute.verticalMargin;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_action_text_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_action_text_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_background_protection = global::Xrf.CarouselDemo.Android.Resource.Color.lb_background_protection;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_basic_card_bg_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_basic_card_bg_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_basic_card_content_text_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_basic_card_content_text_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_basic_card_info_bg_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_basic_card_info_bg_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_basic_card_title_text_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_basic_card_title_text_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_browse_header_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_browse_header_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_browse_header_description_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_browse_header_description_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_browse_title_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_browse_title_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_control_button_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_control_button_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_control_button_text = global::Xrf.CarouselDemo.Android.Resource.Color.lb_control_button_text;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_default_brand_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_default_brand_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_default_brand_color_dark = global::Xrf.CarouselDemo.Android.Resource.Color.lb_default_brand_color_dark;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_default_search_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_default_search_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_default_search_icon_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_default_search_icon_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_details_description_body_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_details_description_body_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_details_description_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_details_description_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_details_overview_bg_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_details_overview_bg_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_error_background_color_opaque = global::Xrf.CarouselDemo.Android.Resource.Color.lb_error_background_color_opaque;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_error_background_color_translucent = global::Xrf.CarouselDemo.Android.Resource.Color.lb_error_background_color_translucent;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_error_message = global::Xrf.CarouselDemo.Android.Resource.Color.lb_error_message;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_grey = global::Xrf.CarouselDemo.Android.Resource.Color.lb_grey;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_guidedactions_background = global::Xrf.CarouselDemo.Android.Resource.Color.lb_guidedactions_background;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_guidedactions_background_dark = global::Xrf.CarouselDemo.Android.Resource.Color.lb_guidedactions_background_dark;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_guidedactions_item_unselected_text_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_guidedactions_item_unselected_text_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_list_item_unselected_text_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_list_item_unselected_text_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_media_background_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_media_background_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_page_indicator_arrow_background = global::Xrf.CarouselDemo.Android.Resource.Color.lb_page_indicator_arrow_background;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_page_indicator_arrow_shadow = global::Xrf.CarouselDemo.Android.Resource.Color.lb_page_indicator_arrow_shadow;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_page_indicator_dot = global::Xrf.CarouselDemo.Android.Resource.Color.lb_page_indicator_dot;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_playback_background_progress_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_playback_background_progress_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_playback_controls_background_dark = global::Xrf.CarouselDemo.Android.Resource.Color.lb_playback_controls_background_dark;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_playback_controls_background_light = global::Xrf.CarouselDemo.Android.Resource.Color.lb_playback_controls_background_light;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_playback_controls_time_text_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_playback_controls_time_text_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_playback_icon_highlight_no_theme = global::Xrf.CarouselDemo.Android.Resource.Color.lb_playback_icon_highlight_no_theme;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_playback_media_row_highlight_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_playback_media_row_highlight_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_playback_media_row_separator_highlight_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_playback_media_row_separator_highlight_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_playback_now_playing_bar_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_playback_now_playing_bar_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_playback_progress_color_no_theme = global::Xrf.CarouselDemo.Android.Resource.Color.lb_playback_progress_color_no_theme;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_playback_secondary_progress_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_playback_secondary_progress_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_search_bar_hint = global::Xrf.CarouselDemo.Android.Resource.Color.lb_search_bar_hint;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_search_bar_hint_speech_mode = global::Xrf.CarouselDemo.Android.Resource.Color.lb_search_bar_hint_speech_mode;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_search_bar_text = global::Xrf.CarouselDemo.Android.Resource.Color.lb_search_bar_text;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_search_bar_text_speech_mode = global::Xrf.CarouselDemo.Android.Resource.Color.lb_search_bar_text_speech_mode;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_search_plate_hint_text_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_search_plate_hint_text_color;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_speech_orb_not_recording = global::Xrf.CarouselDemo.Android.Resource.Color.lb_speech_orb_not_recording;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_speech_orb_not_recording_icon = global::Xrf.CarouselDemo.Android.Resource.Color.lb_speech_orb_not_recording_icon;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_speech_orb_not_recording_pulsed = global::Xrf.CarouselDemo.Android.Resource.Color.lb_speech_orb_not_recording_pulsed;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_speech_orb_recording = global::Xrf.CarouselDemo.Android.Resource.Color.lb_speech_orb_recording;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_tv_white = global::Xrf.CarouselDemo.Android.Resource.Color.lb_tv_white;
-			global::Com.Syncfusion.Carousel.Resource.Color.lb_view_dim_mask_color = global::Xrf.CarouselDemo.Android.Resource.Color.lb_view_dim_mask_color;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Xrf.CarouselDemo.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Xrf.CarouselDemo.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Xrf.CarouselDemo.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_action_1_line_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_action_1_line_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_action_2_lines_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_action_2_lines_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_action_button_corner_radius = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_action_button_corner_radius;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_action_icon_margin = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_action_icon_margin;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_action_padding_horizontal = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_action_padding_horizontal;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_action_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_action_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_action_with_icon_padding_end = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_action_with_icon_padding_end;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_action_with_icon_padding_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_action_with_icon_padding_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_basic_card_content_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_basic_card_content_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_basic_card_info_badge_margin = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_basic_card_info_badge_margin;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_basic_card_info_badge_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_basic_card_info_badge_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_basic_card_info_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_basic_card_info_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_basic_card_info_height_no_content = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_basic_card_info_height_no_content;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_basic_card_info_padding_bottom = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_basic_card_info_padding_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_basic_card_info_padding_horizontal = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_basic_card_info_padding_horizontal;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_basic_card_info_padding_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_basic_card_info_padding_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_basic_card_info_text_margin = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_basic_card_info_text_margin;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_basic_card_main_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_basic_card_main_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_basic_card_main_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_basic_card_main_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_basic_card_title_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_basic_card_title_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_expanded_row_no_hovercard_bottom_padding = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_expanded_row_no_hovercard_bottom_padding;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_expanded_selected_row_top_padding = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_expanded_selected_row_top_padding;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_header_description_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_header_description_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_header_fading_length = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_header_fading_length;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_header_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_header_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_header_padding_end = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_header_padding_end;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_header_select_duration = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_header_select_duration;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_header_select_scale = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_header_select_scale;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_header_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_header_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_headers_vertical_spacing = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_headers_vertical_spacing;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_headers_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_headers_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_headers_z = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_headers_z;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_item_horizontal_spacing = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_item_horizontal_spacing;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_item_vertical_spacing = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_item_vertical_spacing;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_padding_bottom = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_padding_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_padding_end = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_padding_end;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_padding_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_padding_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_padding_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_padding_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_row_hovercard_description_font_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_row_hovercard_description_font_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_row_hovercard_max_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_row_hovercard_max_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_row_hovercard_title_font_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_row_hovercard_title_font_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_rows_fading_edge = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_rows_fading_edge;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_rows_margin_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_rows_margin_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_rows_margin_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_rows_margin_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_section_header_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_section_header_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_selected_row_top_padding = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_selected_row_top_padding;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_title_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_title_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_title_icon_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_title_icon_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_title_icon_max_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_title_icon_max_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_browse_title_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_browse_title_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_control_button_diameter = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_control_button_diameter;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_control_button_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_control_button_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_control_button_secondary_diameter = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_control_button_secondary_diameter;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_control_button_secondary_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_control_button_secondary_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_control_button_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_control_button_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_control_icon_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_control_icon_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_control_icon_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_control_icon_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_cover_drawable_parallax_movement = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_cover_drawable_parallax_movement;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_description_body_line_spacing = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_description_body_line_spacing;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_description_body_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_description_body_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_description_subtitle_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_description_subtitle_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_description_title_baseline = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_description_title_baseline;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_description_title_line_spacing = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_description_title_line_spacing;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_description_title_padding_adjust_bottom = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_description_title_padding_adjust_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_description_title_padding_adjust_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_description_title_padding_adjust_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_description_title_resized_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_description_title_resized_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_description_title_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_description_title_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_description_under_subtitle_baseline_margin = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_description_under_subtitle_baseline_margin;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_description_under_title_baseline_margin = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_description_under_title_baseline_margin;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_action_items_spacing = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_action_items_spacing;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_action_select_duration = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_action_select_duration;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_actions_fade_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_actions_fade_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_actions_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_actions_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_actions_padding_end = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_actions_padding_end;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_actions_padding_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_actions_padding_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_description_margin_bottom = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_description_margin_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_description_margin_end = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_description_margin_end;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_description_margin_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_description_margin_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_description_margin_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_description_margin_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_height_large = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_height_large;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_height_small = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_height_small;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_image_margin_horizontal = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_image_margin_horizontal;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_image_margin_vertical = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_image_margin_vertical;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_margin_bottom = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_margin_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_margin_end = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_margin_end;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_margin_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_margin_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_overview_z = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_overview_z;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_rows_align_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_rows_align_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_v2_actions_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_v2_actions_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_v2_align_pos_for_actions = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_v2_align_pos_for_actions;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_v2_align_pos_for_description = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_v2_align_pos_for_description;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_v2_blank_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_v2_blank_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_v2_card_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_v2_card_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_v2_description_margin_end = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_v2_description_margin_end;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_v2_description_margin_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_v2_description_margin_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_v2_description_margin_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_v2_description_margin_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_v2_left = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_v2_left;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_v2_logo_margin_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_v2_logo_margin_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_v2_logo_max_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_v2_logo_max_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_details_v2_logo_max_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_details_v2_logo_max_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_error_image_max_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_error_image_max_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_error_message_max_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_error_message_max_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_error_message_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_error_message_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_error_under_image_baseline_margin = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_error_under_image_baseline_margin;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_error_under_message_baseline_margin = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_error_under_message_baseline_margin;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_elevation = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_elevation;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_item_bottom_padding = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_item_bottom_padding;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_item_checkmark_diameter = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_item_checkmark_diameter;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_item_delimiter_padding = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_item_delimiter_padding;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_item_description_font_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_item_description_font_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_item_end_padding = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_item_end_padding;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_item_icon_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_item_icon_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_item_icon_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_item_icon_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_item_space_between_title_and_description = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_item_space_between_title_and_description;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_item_start_padding = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_item_start_padding;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_item_text_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_item_text_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_item_text_width_no_icon = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_item_text_width_no_icon;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_item_title_font_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_item_title_font_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_item_top_padding = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_item_top_padding;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_list_padding_end = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_list_padding_end;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_list_padding_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_list_padding_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_list_vertical_spacing = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_list_vertical_spacing;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_section_shadow_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_section_shadow_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_sublist_bottom_margin = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_sublist_bottom_margin;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_sublist_padding_bottom = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_sublist_padding_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_sublist_padding_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_sublist_padding_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedactions_vertical_padding = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedactions_vertical_padding;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_guidedstep_slide_ime_distance = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_guidedstep_slide_ime_distance;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_list_row_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_list_row_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_material_shadow_details_z = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_material_shadow_details_z;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_material_shadow_focused_z = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_material_shadow_focused_z;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_material_shadow_normal_z = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_material_shadow_normal_z;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_onboarding_content_margin_bottom = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_onboarding_content_margin_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_onboarding_content_margin_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_onboarding_content_margin_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_onboarding_content_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_onboarding_content_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_onboarding_header_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_onboarding_header_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_onboarding_header_margin_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_onboarding_header_margin_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_onboarding_navigation_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_onboarding_navigation_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_onboarding_start_button_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_onboarding_start_button_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_onboarding_start_button_margin_bottom = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_onboarding_start_button_margin_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_onboarding_start_button_translation_offset = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_onboarding_start_button_translation_offset;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_page_indicator_arrow_gap = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_page_indicator_arrow_gap;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_page_indicator_arrow_radius = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_page_indicator_arrow_radius;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_page_indicator_arrow_shadow_offset = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_page_indicator_arrow_shadow_offset;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_page_indicator_arrow_shadow_radius = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_page_indicator_arrow_shadow_radius;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_page_indicator_dot_gap = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_page_indicator_dot_gap;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_page_indicator_dot_radius = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_page_indicator_dot_radius;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_controls_card_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_controls_card_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_controls_child_margin_bigger = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_controls_child_margin_bigger;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_controls_child_margin_biggest = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_controls_child_margin_biggest;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_controls_child_margin_default = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_controls_child_margin_default;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_controls_margin_bottom = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_controls_margin_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_controls_margin_end = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_controls_margin_end;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_controls_margin_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_controls_margin_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_controls_padding_bottom = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_controls_padding_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_controls_time_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_controls_time_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_controls_z = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_controls_z;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_current_time_margin_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_current_time_margin_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_description_margin_end = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_description_margin_end;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_description_margin_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_description_margin_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_description_margin_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_description_margin_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_major_fade_translate_y = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_major_fade_translate_y;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_media_item_radio_icon_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_media_item_radio_icon_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_media_radio_width_with_padding = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_media_radio_width_with_padding;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_media_row_details_selector_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_media_row_details_selector_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_media_row_horizontal_padding = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_media_row_horizontal_padding;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_media_row_radio_selector_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_media_row_radio_selector_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_media_row_selector_round_rect_radius = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_media_row_selector_round_rect_radius;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_media_row_separator_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_media_row_separator_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_minor_fade_translate_y = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_minor_fade_translate_y;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_now_playing_bar_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_now_playing_bar_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_now_playing_bar_left_margin = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_now_playing_bar_left_margin;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_now_playing_bar_margin = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_now_playing_bar_margin;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_now_playing_bar_top_margin = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_now_playing_bar_top_margin;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_now_playing_bar_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_now_playing_bar_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_now_playing_view_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_now_playing_view_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_other_rows_center_to_bottom = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_other_rows_center_to_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_play_icon_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_play_icon_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_time_padding_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_time_padding_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_playback_total_time_margin_end = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_playback_total_time_margin_end;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_rounded_rect_corner_radius = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_rounded_rect_corner_radius;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_edit_text_margin_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_edit_text_margin_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_hint_margin_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_hint_margin_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_icon_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_icon_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_icon_margin_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_icon_margin_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_icon_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_icon_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_inner_margin_bottom = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_inner_margin_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_inner_margin_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_inner_margin_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_items_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_items_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_items_layout_margin_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_items_layout_margin_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_items_margin_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_items_margin_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_items_width = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_items_width;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_padding_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_padding_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_padding_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_padding_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_speech_orb_margin_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_speech_orb_margin_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_speech_orb_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_speech_orb_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_bar_unfocused_text_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_bar_unfocused_text_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_browse_row_padding_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_browse_row_padding_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_browse_rows_align_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_browse_rows_align_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_orb_focused_z = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_orb_focused_z;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_orb_margin_bottom = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_orb_margin_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_orb_margin_end = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_orb_margin_end;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_orb_margin_start = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_orb_margin_start;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_orb_margin_top = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_orb_margin_top;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_orb_size = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_orb_size;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_search_orb_unfocused_z = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_search_orb_unfocused_z;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.lb_vertical_grid_padding_bottom = global::Xrf.CarouselDemo.Android.Resource.Dimension.lb_vertical_grid_padding_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.picker_column_horizontal_padding = global::Xrf.CarouselDemo.Android.Resource.Dimension.picker_column_horizontal_padding;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.picker_item_height = global::Xrf.CarouselDemo.Android.Resource.Dimension.picker_item_height;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.picker_item_spacing = global::Xrf.CarouselDemo.Android.Resource.Dimension.picker_item_spacing;
-			global::Com.Syncfusion.Carousel.Resource.Dimension.picker_separator_horizontal_padding = global::Xrf.CarouselDemo.Android.Resource.Dimension.picker_separator_horizontal_padding;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_action_bg = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_action_bg;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_action_bg_focused = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_action_bg_focused;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_background = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_background;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_card_foreground = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_card_foreground;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_card_shadow_focused = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_card_shadow_focused;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_card_shadow_normal = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_card_shadow_normal;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_control_button_primary = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_control_button_primary;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_control_button_secondary = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_control_button_secondary;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_headers_right_fading = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_headers_right_fading;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_actions_right_arrow = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_actions_right_arrow;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_cc = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_cc;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_fast_forward = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_fast_forward;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_fast_rewind = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_fast_rewind;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_guidedactions_item_chevron = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_guidedactions_item_chevron;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_hq = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_hq;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_in_app_search = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_in_app_search;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_loop = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_loop;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_loop_one = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_loop_one;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_more = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_more;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_nav_arrow = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_nav_arrow;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_pause = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_pause;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_pip = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_pip;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_play = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_play;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_play_fit = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_play_fit;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_playback_loop = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_playback_loop;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_replay = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_replay;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_sad_cloud = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_sad_cloud;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_search_mic = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_search_mic;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_search_mic_out = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_search_mic_out;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_shuffle = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_shuffle;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_skip_next = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_skip_next;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_skip_previous = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_skip_previous;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_stop = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_stop;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_thumb_down = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_thumb_down;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_thumb_down_outline = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_thumb_down_outline;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_thumb_up = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_thumb_up;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_ic_thumb_up_outline = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_ic_thumb_up_outline;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_in_app_search_bg = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_in_app_search_bg;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_in_app_search_shadow_focused = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_in_app_search_shadow_focused;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_in_app_search_shadow_normal = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_in_app_search_shadow_normal;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_onboarding_start_button_background = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_onboarding_start_button_background;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_playback_now_playing_bar = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_playback_now_playing_bar;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_playback_progress_bar = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_playback_progress_bar;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_search_orb = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_search_orb;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_selectable_item_rounded_rect = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_selectable_item_rounded_rect;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_speech_orb = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_speech_orb;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_text_dot_one = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_text_dot_one;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_text_dot_one_small = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_text_dot_one_small;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_text_dot_two = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_text_dot_two;
-			global::Com.Syncfusion.Carousel.Resource.Drawable.lb_text_dot_two_small = global::Xrf.CarouselDemo.Android.Resource.Drawable.lb_text_dot_two_small;
-			global::Com.Syncfusion.Carousel.Resource.Fraction.lb_browse_header_unselect_alpha = global::Xrf.CarouselDemo.Android.Resource.Fraction.lb_browse_header_unselect_alpha;
-			global::Com.Syncfusion.Carousel.Resource.Fraction.lb_browse_rows_scale = global::Xrf.CarouselDemo.Android.Resource.Fraction.lb_browse_rows_scale;
-			global::Com.Syncfusion.Carousel.Resource.Fraction.lb_focus_zoom_factor_large = global::Xrf.CarouselDemo.Android.Resource.Fraction.lb_focus_zoom_factor_large;
-			global::Com.Syncfusion.Carousel.Resource.Fraction.lb_focus_zoom_factor_medium = global::Xrf.CarouselDemo.Android.Resource.Fraction.lb_focus_zoom_factor_medium;
-			global::Com.Syncfusion.Carousel.Resource.Fraction.lb_focus_zoom_factor_small = global::Xrf.CarouselDemo.Android.Resource.Fraction.lb_focus_zoom_factor_small;
-			global::Com.Syncfusion.Carousel.Resource.Fraction.lb_focus_zoom_factor_xsmall = global::Xrf.CarouselDemo.Android.Resource.Fraction.lb_focus_zoom_factor_xsmall;
-			global::Com.Syncfusion.Carousel.Resource.Fraction.lb_search_bar_speech_orb_max_level_zoom = global::Xrf.CarouselDemo.Android.Resource.Fraction.lb_search_bar_speech_orb_max_level_zoom;
-			global::Com.Syncfusion.Carousel.Resource.Fraction.lb_search_orb_focused_zoom = global::Xrf.CarouselDemo.Android.Resource.Fraction.lb_search_orb_focused_zoom;
-			global::Com.Syncfusion.Carousel.Resource.Fraction.lb_view_active_level = global::Xrf.CarouselDemo.Android.Resource.Fraction.lb_view_active_level;
-			global::Com.Syncfusion.Carousel.Resource.Fraction.lb_view_dimmed_level = global::Xrf.CarouselDemo.Android.Resource.Fraction.lb_view_dimmed_level;
-			global::Com.Syncfusion.Carousel.Resource.Id.Content = global::Xrf.CarouselDemo.Android.Resource.Id.Content;
-			global::Com.Syncfusion.Carousel.Resource.Id.Default = global::Xrf.CarouselDemo.Android.Resource.Id.Default;
-			global::Com.Syncfusion.Carousel.Resource.Id.IconOnLeft = global::Xrf.CarouselDemo.Android.Resource.Id.IconOnLeft;
-			global::Com.Syncfusion.Carousel.Resource.Id.IconOnRight = global::Xrf.CarouselDemo.Android.Resource.Id.IconOnRight;
-			global::Com.Syncfusion.Carousel.Resource.Id.ImageOnly = global::Xrf.CarouselDemo.Android.Resource.Id.ImageOnly;
-			global::Com.Syncfusion.Carousel.Resource.Id.Linear = global::Xrf.CarouselDemo.Android.Resource.Id.Linear;
-			global::Com.Syncfusion.Carousel.Resource.Id.Title = global::Xrf.CarouselDemo.Android.Resource.Id.Title;
-			global::Com.Syncfusion.Carousel.Resource.Id.actionIcon = global::Xrf.CarouselDemo.Android.Resource.Id.actionIcon;
-			global::Com.Syncfusion.Carousel.Resource.Id.action_fragment = global::Xrf.CarouselDemo.Android.Resource.Id.action_fragment;
-			global::Com.Syncfusion.Carousel.Resource.Id.action_fragment_background = global::Xrf.CarouselDemo.Android.Resource.Id.action_fragment_background;
-			global::Com.Syncfusion.Carousel.Resource.Id.action_fragment_root = global::Xrf.CarouselDemo.Android.Resource.Id.action_fragment_root;
-			global::Com.Syncfusion.Carousel.Resource.Id.activated = global::Xrf.CarouselDemo.Android.Resource.Id.activated;
-			global::Com.Syncfusion.Carousel.Resource.Id.always = global::Xrf.CarouselDemo.Android.Resource.Id.always;
-			global::Com.Syncfusion.Carousel.Resource.Id.background = global::Xrf.CarouselDemo.Android.Resource.Id.background;
-			global::Com.Syncfusion.Carousel.Resource.Id.background_container = global::Xrf.CarouselDemo.Android.Resource.Id.background_container;
-			global::Com.Syncfusion.Carousel.Resource.Id.background_imagein = global::Xrf.CarouselDemo.Android.Resource.Id.background_imagein;
-			global::Com.Syncfusion.Carousel.Resource.Id.background_imageout = global::Xrf.CarouselDemo.Android.Resource.Id.background_imageout;
-			global::Com.Syncfusion.Carousel.Resource.Id.bar1 = global::Xrf.CarouselDemo.Android.Resource.Id.bar1;
-			global::Com.Syncfusion.Carousel.Resource.Id.bar2 = global::Xrf.CarouselDemo.Android.Resource.Id.bar2;
-			global::Com.Syncfusion.Carousel.Resource.Id.bar3 = global::Xrf.CarouselDemo.Android.Resource.Id.bar3;
-			global::Com.Syncfusion.Carousel.Resource.Id.bottom = global::Xrf.CarouselDemo.Android.Resource.Id.bottom;
-			global::Com.Syncfusion.Carousel.Resource.Id.bottom_spacer = global::Xrf.CarouselDemo.Android.Resource.Id.bottom_spacer;
-			global::Com.Syncfusion.Carousel.Resource.Id.browse_container_dock = global::Xrf.CarouselDemo.Android.Resource.Id.browse_container_dock;
-			global::Com.Syncfusion.Carousel.Resource.Id.browse_dummy = global::Xrf.CarouselDemo.Android.Resource.Id.browse_dummy;
-			global::Com.Syncfusion.Carousel.Resource.Id.browse_frame = global::Xrf.CarouselDemo.Android.Resource.Id.browse_frame;
-			global::Com.Syncfusion.Carousel.Resource.Id.browse_grid = global::Xrf.CarouselDemo.Android.Resource.Id.browse_grid;
-			global::Com.Syncfusion.Carousel.Resource.Id.browse_grid_dock = global::Xrf.CarouselDemo.Android.Resource.Id.browse_grid_dock;
-			global::Com.Syncfusion.Carousel.Resource.Id.browse_headers = global::Xrf.CarouselDemo.Android.Resource.Id.browse_headers;
-			global::Com.Syncfusion.Carousel.Resource.Id.browse_headers_dock = global::Xrf.CarouselDemo.Android.Resource.Id.browse_headers_dock;
-			global::Com.Syncfusion.Carousel.Resource.Id.browse_headers_root = global::Xrf.CarouselDemo.Android.Resource.Id.browse_headers_root;
-			global::Com.Syncfusion.Carousel.Resource.Id.browse_title_group = global::Xrf.CarouselDemo.Android.Resource.Id.browse_title_group;
-			global::Com.Syncfusion.Carousel.Resource.Id.button = global::Xrf.CarouselDemo.Android.Resource.Id.button;
-			global::Com.Syncfusion.Carousel.Resource.Id.button_start = global::Xrf.CarouselDemo.Android.Resource.Id.button_start;
-			global::Com.Syncfusion.Carousel.Resource.Id.column = global::Xrf.CarouselDemo.Android.Resource.Id.column;
-			global::Com.Syncfusion.Carousel.Resource.Id.container_list = global::Xrf.CarouselDemo.Android.Resource.Id.container_list;
-			global::Com.Syncfusion.Carousel.Resource.Id.content_container = global::Xrf.CarouselDemo.Android.Resource.Id.content_container;
-			global::Com.Syncfusion.Carousel.Resource.Id.content_fragment = global::Xrf.CarouselDemo.Android.Resource.Id.content_fragment;
-			global::Com.Syncfusion.Carousel.Resource.Id.content_frame = global::Xrf.CarouselDemo.Android.Resource.Id.content_frame;
-			global::Com.Syncfusion.Carousel.Resource.Id.content_text = global::Xrf.CarouselDemo.Android.Resource.Id.content_text;
-			global::Com.Syncfusion.Carousel.Resource.Id.control_bar = global::Xrf.CarouselDemo.Android.Resource.Id.control_bar;
-			global::Com.Syncfusion.Carousel.Resource.Id.controls_card = global::Xrf.CarouselDemo.Android.Resource.Id.controls_card;
-			global::Com.Syncfusion.Carousel.Resource.Id.controls_card_right_panel = global::Xrf.CarouselDemo.Android.Resource.Id.controls_card_right_panel;
-			global::Com.Syncfusion.Carousel.Resource.Id.controls_container = global::Xrf.CarouselDemo.Android.Resource.Id.controls_container;
-			global::Com.Syncfusion.Carousel.Resource.Id.controls_dock = global::Xrf.CarouselDemo.Android.Resource.Id.controls_dock;
-			global::Com.Syncfusion.Carousel.Resource.Id.current_time = global::Xrf.CarouselDemo.Android.Resource.Id.current_time;
-			global::Com.Syncfusion.Carousel.Resource.Id.description = global::Xrf.CarouselDemo.Android.Resource.Id.description;
-			global::Com.Syncfusion.Carousel.Resource.Id.description_dock = global::Xrf.CarouselDemo.Android.Resource.Id.description_dock;
-			global::Com.Syncfusion.Carousel.Resource.Id.details_background_view = global::Xrf.CarouselDemo.Android.Resource.Id.details_background_view;
-			global::Com.Syncfusion.Carousel.Resource.Id.details_fragment_root = global::Xrf.CarouselDemo.Android.Resource.Id.details_fragment_root;
-			global::Com.Syncfusion.Carousel.Resource.Id.details_frame = global::Xrf.CarouselDemo.Android.Resource.Id.details_frame;
-			global::Com.Syncfusion.Carousel.Resource.Id.details_overview = global::Xrf.CarouselDemo.Android.Resource.Id.details_overview;
-			global::Com.Syncfusion.Carousel.Resource.Id.details_overview_actions = global::Xrf.CarouselDemo.Android.Resource.Id.details_overview_actions;
-			global::Com.Syncfusion.Carousel.Resource.Id.details_overview_actions_background = global::Xrf.CarouselDemo.Android.Resource.Id.details_overview_actions_background;
-			global::Com.Syncfusion.Carousel.Resource.Id.details_overview_description = global::Xrf.CarouselDemo.Android.Resource.Id.details_overview_description;
-			global::Com.Syncfusion.Carousel.Resource.Id.details_overview_image = global::Xrf.CarouselDemo.Android.Resource.Id.details_overview_image;
-			global::Com.Syncfusion.Carousel.Resource.Id.details_overview_right_panel = global::Xrf.CarouselDemo.Android.Resource.Id.details_overview_right_panel;
-			global::Com.Syncfusion.Carousel.Resource.Id.details_root = global::Xrf.CarouselDemo.Android.Resource.Id.details_root;
-			global::Com.Syncfusion.Carousel.Resource.Id.details_rows_dock = global::Xrf.CarouselDemo.Android.Resource.Id.details_rows_dock;
-			global::Com.Syncfusion.Carousel.Resource.Id.dummy = global::Xrf.CarouselDemo.Android.Resource.Id.dummy;
-			global::Com.Syncfusion.Carousel.Resource.Id.end = global::Xrf.CarouselDemo.Android.Resource.Id.end;
-			global::Com.Syncfusion.Carousel.Resource.Id.error_frame = global::Xrf.CarouselDemo.Android.Resource.Id.error_frame;
-			global::Com.Syncfusion.Carousel.Resource.Id.extra = global::Xrf.CarouselDemo.Android.Resource.Id.extra;
-			global::Com.Syncfusion.Carousel.Resource.Id.extra_badge = global::Xrf.CarouselDemo.Android.Resource.Id.extra_badge;
-			global::Com.Syncfusion.Carousel.Resource.Id.fade_out_edge = global::Xrf.CarouselDemo.Android.Resource.Id.fade_out_edge;
-			global::Com.Syncfusion.Carousel.Resource.Id.foreground_container = global::Xrf.CarouselDemo.Android.Resource.Id.foreground_container;
-			global::Com.Syncfusion.Carousel.Resource.Id.grid_frame = global::Xrf.CarouselDemo.Android.Resource.Id.grid_frame;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidance_breadcrumb = global::Xrf.CarouselDemo.Android.Resource.Id.guidance_breadcrumb;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidance_container = global::Xrf.CarouselDemo.Android.Resource.Id.guidance_container;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidance_description = global::Xrf.CarouselDemo.Android.Resource.Id.guidance_description;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidance_icon = global::Xrf.CarouselDemo.Android.Resource.Id.guidance_icon;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidance_title = global::Xrf.CarouselDemo.Android.Resource.Id.guidance_title;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_activator_item = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_activator_item;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_content = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_content;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_content2 = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_content2;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_item_checkmark = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_item_checkmark;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_item_chevron = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_item_chevron;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_item_content = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_item_content;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_item_description = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_item_description;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_item_icon = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_item_icon;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_item_title = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_item_title;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_list = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_list;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_list2 = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_list2;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_list_background = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_list_background;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_list_background2 = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_list_background2;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_root = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_root;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_root2 = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_root2;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_sub_list = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_sub_list;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedactions_sub_list_background = global::Xrf.CarouselDemo.Android.Resource.Id.guidedactions_sub_list_background;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedstep_background = global::Xrf.CarouselDemo.Android.Resource.Id.guidedstep_background;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedstep_background_view_root = global::Xrf.CarouselDemo.Android.Resource.Id.guidedstep_background_view_root;
-			global::Com.Syncfusion.Carousel.Resource.Id.guidedstep_root = global::Xrf.CarouselDemo.Android.Resource.Id.guidedstep_root;
-			global::Com.Syncfusion.Carousel.Resource.Id.hovercard_panel = global::Xrf.CarouselDemo.Android.Resource.Id.hovercard_panel;
-			global::Com.Syncfusion.Carousel.Resource.Id.icon = global::Xrf.CarouselDemo.Android.Resource.Id.icon;
-			global::Com.Syncfusion.Carousel.Resource.Id.image = global::Xrf.CarouselDemo.Android.Resource.Id.image;
-			global::Com.Syncfusion.Carousel.Resource.Id.info = global::Xrf.CarouselDemo.Android.Resource.Id.info;
-			global::Com.Syncfusion.Carousel.Resource.Id.infoOver = global::Xrf.CarouselDemo.Android.Resource.Id.infoOver;
-			global::Com.Syncfusion.Carousel.Resource.Id.infoUnder = global::Xrf.CarouselDemo.Android.Resource.Id.infoUnder;
-			global::Com.Syncfusion.Carousel.Resource.Id.infoUnderWithExtra = global::Xrf.CarouselDemo.Android.Resource.Id.infoUnderWithExtra;
-			global::Com.Syncfusion.Carousel.Resource.Id.info_field = global::Xrf.CarouselDemo.Android.Resource.Id.info_field;
-			global::Com.Syncfusion.Carousel.Resource.Id.initial = global::Xrf.CarouselDemo.Android.Resource.Id.initial;
-			global::Com.Syncfusion.Carousel.Resource.Id.item_touch_helper_previous_elevation = global::Xrf.CarouselDemo.Android.Resource.Id.item_touch_helper_previous_elevation;
-			global::Com.Syncfusion.Carousel.Resource.Id.label = global::Xrf.CarouselDemo.Android.Resource.Id.label;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_action_button = global::Xrf.CarouselDemo.Android.Resource.Id.lb_action_button;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_control_closed_captioning = global::Xrf.CarouselDemo.Android.Resource.Id.lb_control_closed_captioning;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_control_fast_forward = global::Xrf.CarouselDemo.Android.Resource.Id.lb_control_fast_forward;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_control_fast_rewind = global::Xrf.CarouselDemo.Android.Resource.Id.lb_control_fast_rewind;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_control_high_quality = global::Xrf.CarouselDemo.Android.Resource.Id.lb_control_high_quality;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_control_more_actions = global::Xrf.CarouselDemo.Android.Resource.Id.lb_control_more_actions;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_control_picture_in_picture = global::Xrf.CarouselDemo.Android.Resource.Id.lb_control_picture_in_picture;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_control_play_pause = global::Xrf.CarouselDemo.Android.Resource.Id.lb_control_play_pause;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_control_repeat = global::Xrf.CarouselDemo.Android.Resource.Id.lb_control_repeat;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_control_shuffle = global::Xrf.CarouselDemo.Android.Resource.Id.lb_control_shuffle;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_control_skip_next = global::Xrf.CarouselDemo.Android.Resource.Id.lb_control_skip_next;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_control_skip_previous = global::Xrf.CarouselDemo.Android.Resource.Id.lb_control_skip_previous;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_control_thumbs_down = global::Xrf.CarouselDemo.Android.Resource.Id.lb_control_thumbs_down;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_control_thumbs_up = global::Xrf.CarouselDemo.Android.Resource.Id.lb_control_thumbs_up;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_details_description_body = global::Xrf.CarouselDemo.Android.Resource.Id.lb_details_description_body;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_details_description_subtitle = global::Xrf.CarouselDemo.Android.Resource.Id.lb_details_description_subtitle;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_details_description_title = global::Xrf.CarouselDemo.Android.Resource.Id.lb_details_description_title;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_focus_animator = global::Xrf.CarouselDemo.Android.Resource.Id.lb_focus_animator;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_guidedstep_background = global::Xrf.CarouselDemo.Android.Resource.Id.lb_guidedstep_background;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_parallax_source = global::Xrf.CarouselDemo.Android.Resource.Id.lb_parallax_source;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_results_frame = global::Xrf.CarouselDemo.Android.Resource.Id.lb_results_frame;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_row_container_header_dock = global::Xrf.CarouselDemo.Android.Resource.Id.lb_row_container_header_dock;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_search_bar = global::Xrf.CarouselDemo.Android.Resource.Id.lb_search_bar;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_search_bar_badge = global::Xrf.CarouselDemo.Android.Resource.Id.lb_search_bar_badge;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_search_bar_items = global::Xrf.CarouselDemo.Android.Resource.Id.lb_search_bar_items;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_search_bar_speech_orb = global::Xrf.CarouselDemo.Android.Resource.Id.lb_search_bar_speech_orb;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_search_frame = global::Xrf.CarouselDemo.Android.Resource.Id.lb_search_frame;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_search_text_editor = global::Xrf.CarouselDemo.Android.Resource.Id.lb_search_text_editor;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_shadow_focused = global::Xrf.CarouselDemo.Android.Resource.Id.lb_shadow_focused;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_shadow_impl = global::Xrf.CarouselDemo.Android.Resource.Id.lb_shadow_impl;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_shadow_normal = global::Xrf.CarouselDemo.Android.Resource.Id.lb_shadow_normal;
-			global::Com.Syncfusion.Carousel.Resource.Id.lb_slide_transition_value = global::Xrf.CarouselDemo.Android.Resource.Id.lb_slide_transition_value;
-			global::Com.Syncfusion.Carousel.Resource.Id.left = global::Xrf.CarouselDemo.Android.Resource.Id.left;
-			global::Com.Syncfusion.Carousel.Resource.Id.list_item = global::Xrf.CarouselDemo.Android.Resource.Id.list_item;
-			global::Com.Syncfusion.Carousel.Resource.Id.logo = global::Xrf.CarouselDemo.Android.Resource.Id.logo;
-			global::Com.Syncfusion.Carousel.Resource.Id.main = global::Xrf.CarouselDemo.Android.Resource.Id.main;
-			global::Com.Syncfusion.Carousel.Resource.Id.mainOnly = global::Xrf.CarouselDemo.Android.Resource.Id.mainOnly;
-			global::Com.Syncfusion.Carousel.Resource.Id.main_image = global::Xrf.CarouselDemo.Android.Resource.Id.main_image;
-			global::Com.Syncfusion.Carousel.Resource.Id.maxLines = global::Xrf.CarouselDemo.Android.Resource.Id.maxLines;
-			global::Com.Syncfusion.Carousel.Resource.Id.mediaItemActionsContainer = global::Xrf.CarouselDemo.Android.Resource.Id.mediaItemActionsContainer;
-			global::Com.Syncfusion.Carousel.Resource.Id.mediaItemDetails = global::Xrf.CarouselDemo.Android.Resource.Id.mediaItemDetails;
-			global::Com.Syncfusion.Carousel.Resource.Id.mediaItemDuration = global::Xrf.CarouselDemo.Android.Resource.Id.mediaItemDuration;
-			global::Com.Syncfusion.Carousel.Resource.Id.mediaItemName = global::Xrf.CarouselDemo.Android.Resource.Id.mediaItemName;
-			global::Com.Syncfusion.Carousel.Resource.Id.mediaItemNumberViewFlipper = global::Xrf.CarouselDemo.Android.Resource.Id.mediaItemNumberViewFlipper;
-			global::Com.Syncfusion.Carousel.Resource.Id.mediaItemRow = global::Xrf.CarouselDemo.Android.Resource.Id.mediaItemRow;
-			global::Com.Syncfusion.Carousel.Resource.Id.mediaListHeader = global::Xrf.CarouselDemo.Android.Resource.Id.mediaListHeader;
-			global::Com.Syncfusion.Carousel.Resource.Id.mediaRowSelector = global::Xrf.CarouselDemo.Android.Resource.Id.mediaRowSelector;
-			global::Com.Syncfusion.Carousel.Resource.Id.mediaRowSeparator = global::Xrf.CarouselDemo.Android.Resource.Id.mediaRowSeparator;
-			global::Com.Syncfusion.Carousel.Resource.Id.message = global::Xrf.CarouselDemo.Android.Resource.Id.message;
-			global::Com.Syncfusion.Carousel.Resource.Id.more_actions_dock = global::Xrf.CarouselDemo.Android.Resource.Id.more_actions_dock;
-			global::Com.Syncfusion.Carousel.Resource.Id.navigator_container = global::Xrf.CarouselDemo.Android.Resource.Id.navigator_container;
-			global::Com.Syncfusion.Carousel.Resource.Id.onboarding_fragment_root = global::Xrf.CarouselDemo.Android.Resource.Id.onboarding_fragment_root;
-			global::Com.Syncfusion.Carousel.Resource.Id.page_container = global::Xrf.CarouselDemo.Android.Resource.Id.page_container;
-			global::Com.Syncfusion.Carousel.Resource.Id.page_indicator = global::Xrf.CarouselDemo.Android.Resource.Id.page_indicator;
-			global::Com.Syncfusion.Carousel.Resource.Id.paused = global::Xrf.CarouselDemo.Android.Resource.Id.paused;
-			global::Com.Syncfusion.Carousel.Resource.Id.picker = global::Xrf.CarouselDemo.Android.Resource.Id.picker;
-			global::Com.Syncfusion.Carousel.Resource.Id.playback_controls_dock = global::Xrf.CarouselDemo.Android.Resource.Id.playback_controls_dock;
-			global::Com.Syncfusion.Carousel.Resource.Id.playback_fragment_root = global::Xrf.CarouselDemo.Android.Resource.Id.playback_fragment_root;
-			global::Com.Syncfusion.Carousel.Resource.Id.playback_progress = global::Xrf.CarouselDemo.Android.Resource.Id.playback_progress;
-			global::Com.Syncfusion.Carousel.Resource.Id.playing = global::Xrf.CarouselDemo.Android.Resource.Id.playing;
-			global::Com.Syncfusion.Carousel.Resource.Id.right = global::Xrf.CarouselDemo.Android.Resource.Id.right;
-			global::Com.Syncfusion.Carousel.Resource.Id.row_content = global::Xrf.CarouselDemo.Android.Resource.Id.row_content;
-			global::Com.Syncfusion.Carousel.Resource.Id.row_header = global::Xrf.CarouselDemo.Android.Resource.Id.row_header;
-			global::Com.Syncfusion.Carousel.Resource.Id.row_header_description = global::Xrf.CarouselDemo.Android.Resource.Id.row_header_description;
-			global::Com.Syncfusion.Carousel.Resource.Id.scale_frame = global::Xrf.CarouselDemo.Android.Resource.Id.scale_frame;
-			global::Com.Syncfusion.Carousel.Resource.Id.search_orb = global::Xrf.CarouselDemo.Android.Resource.Id.search_orb;
-			global::Com.Syncfusion.Carousel.Resource.Id.secondary_controls_dock = global::Xrf.CarouselDemo.Android.Resource.Id.secondary_controls_dock;
-			global::Com.Syncfusion.Carousel.Resource.Id.selected = global::Xrf.CarouselDemo.Android.Resource.Id.selected;
-			global::Com.Syncfusion.Carousel.Resource.Id.separator = global::Xrf.CarouselDemo.Android.Resource.Id.separator;
-			global::Com.Syncfusion.Carousel.Resource.Id.spacer = global::Xrf.CarouselDemo.Android.Resource.Id.spacer;
-			global::Com.Syncfusion.Carousel.Resource.Id.start = global::Xrf.CarouselDemo.Android.Resource.Id.start;
-			global::Com.Syncfusion.Carousel.Resource.Id.title = global::Xrf.CarouselDemo.Android.Resource.Id.title;
-			global::Com.Syncfusion.Carousel.Resource.Id.title_badge = global::Xrf.CarouselDemo.Android.Resource.Id.title_badge;
-			global::Com.Syncfusion.Carousel.Resource.Id.title_orb = global::Xrf.CarouselDemo.Android.Resource.Id.title_orb;
-			global::Com.Syncfusion.Carousel.Resource.Id.title_text = global::Xrf.CarouselDemo.Android.Resource.Id.title_text;
-			global::Com.Syncfusion.Carousel.Resource.Id.top = global::Xrf.CarouselDemo.Android.Resource.Id.top;
-			global::Com.Syncfusion.Carousel.Resource.Id.total_time = global::Xrf.CarouselDemo.Android.Resource.Id.total_time;
-			global::Com.Syncfusion.Carousel.Resource.Id.transitionPosition = global::Xrf.CarouselDemo.Android.Resource.Id.transitionPosition;
-			global::Com.Syncfusion.Carousel.Resource.Id.video_surface = global::Xrf.CarouselDemo.Android.Resource.Id.video_surface;
-			global::Com.Syncfusion.Carousel.Resource.Id.video_surface_container = global::Xrf.CarouselDemo.Android.Resource.Id.video_surface_container;
-			global::Com.Syncfusion.Carousel.Resource.Id.wrap_content = global::Xrf.CarouselDemo.Android.Resource.Id.wrap_content;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_browse_headers_transition_delay = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_browse_headers_transition_delay;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_browse_headers_transition_duration = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_browse_headers_transition_duration;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_browse_rows_anim_duration = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_browse_rows_anim_duration;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_card_activated_animation_duration = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_card_activated_animation_duration;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_card_selected_animation_delay = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_card_selected_animation_delay;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_card_selected_animation_duration = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_card_selected_animation_duration;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_details_description_body_max_lines = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_details_description_body_max_lines;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_details_description_body_min_lines = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_details_description_body_min_lines;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_details_description_subtitle_max_lines = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_details_description_subtitle_max_lines;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_details_description_title_max_lines = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_details_description_title_max_lines;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_error_message_max_lines = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_error_message_max_lines;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_guidedactions_item_animation_duration = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_guidedactions_item_animation_duration;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_guidedactions_item_description_min_lines = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_guidedactions_item_description_min_lines;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_guidedactions_item_title_max_lines = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_guidedactions_item_title_max_lines;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_guidedactions_item_title_min_lines = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_guidedactions_item_title_min_lines;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_guidedstep_activity_background_fade_duration_ms = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_guidedstep_activity_background_fade_duration_ms;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_playback_bg_fade_in_ms = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_playback_bg_fade_in_ms;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_playback_bg_fade_out_ms = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_playback_bg_fade_out_ms;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_playback_controls_fade_in_ms = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_playback_controls_fade_in_ms;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_playback_controls_fade_out_ms = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_playback_controls_fade_out_ms;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_playback_controls_show_time_ms = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_playback_controls_show_time_ms;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_playback_description_fade_in_ms = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_playback_description_fade_in_ms;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_playback_description_fade_out_ms = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_playback_description_fade_out_ms;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_playback_rows_fade_delay_ms = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_playback_rows_fade_delay_ms;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_playback_rows_fade_in_ms = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_playback_rows_fade_in_ms;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_playback_rows_fade_out_ms = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_playback_rows_fade_out_ms;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_search_bar_speech_mode_background_alpha = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_search_bar_speech_mode_background_alpha;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_search_bar_text_mode_background_alpha = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_search_bar_text_mode_background_alpha;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_search_orb_pulse_duration_ms = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_search_orb_pulse_duration_ms;
-			global::Com.Syncfusion.Carousel.Resource.Integer.lb_search_orb_scale_duration_ms = global::Xrf.CarouselDemo.Android.Resource.Integer.lb_search_orb_scale_duration_ms;
-			global::Com.Syncfusion.Carousel.Resource.Integer.slideEdgeEnd = global::Xrf.CarouselDemo.Android.Resource.Integer.slideEdgeEnd;
-			global::Com.Syncfusion.Carousel.Resource.Integer.slideEdgeStart = global::Xrf.CarouselDemo.Android.Resource.Integer.slideEdgeStart;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_action_1_line = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_action_1_line;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_action_2_lines = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_action_2_lines;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_background_window = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_background_window;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_browse_fragment = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_browse_fragment;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_browse_title = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_browse_title;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_control_bar = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_control_bar;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_control_button_primary = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_control_button_primary;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_control_button_secondary = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_control_button_secondary;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_details_description = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_details_description;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_details_fragment = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_details_fragment;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_details_overview = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_details_overview;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_divider = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_divider;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_error_fragment = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_error_fragment;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_fullwidth_details_overview = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_fullwidth_details_overview;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_fullwidth_details_overview_logo = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_fullwidth_details_overview_logo;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_guidance = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_guidance;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_guidedactions = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_guidedactions;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_guidedactions_datepicker_item = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_guidedactions_datepicker_item;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_guidedactions_item = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_guidedactions_item;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_guidedbuttonactions = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_guidedbuttonactions;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_guidedstep_background = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_guidedstep_background;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_guidedstep_fragment = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_guidedstep_fragment;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_header = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_header;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_headers_fragment = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_headers_fragment;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_image_card_view = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_image_card_view;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_image_card_view_themed_badge_left = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_image_card_view_themed_badge_left;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_image_card_view_themed_badge_right = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_image_card_view_themed_badge_right;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_image_card_view_themed_content = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_image_card_view_themed_content;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_image_card_view_themed_title = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_image_card_view_themed_title;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_list_row = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_list_row;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_list_row_hovercard = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_list_row_hovercard;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_media_item_number_view_flipper = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_media_item_number_view_flipper;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_media_list_header = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_media_list_header;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_onboarding_fragment = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_onboarding_fragment;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_picker = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_picker;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_picker_column = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_picker_column;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_picker_item = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_picker_item;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_picker_separator = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_picker_separator;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_playback_controls = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_playback_controls;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_playback_controls_row = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_playback_controls_row;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_playback_fragment = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_playback_fragment;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_playback_now_playing_bars = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_playback_now_playing_bars;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_row_container = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_row_container;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_row_header = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_row_header;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_row_media_item = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_row_media_item;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_row_media_item_action = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_row_media_item_action;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_rows_fragment = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_rows_fragment;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_search_bar = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_search_bar;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_search_fragment = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_search_fragment;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_search_orb = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_search_orb;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_section_header = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_section_header;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_shadow = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_shadow;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_speech_orb = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_speech_orb;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_title_view = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_title_view;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_vertical_grid = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_vertical_grid;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_vertical_grid_fragment = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_vertical_grid_fragment;
-			global::Com.Syncfusion.Carousel.Resource.Layout.lb_video_surface = global::Xrf.CarouselDemo.Android.Resource.Layout.lb_video_surface;
-			global::Com.Syncfusion.Carousel.Resource.Layout.video_surface_fragment = global::Xrf.CarouselDemo.Android.Resource.Layout.video_surface_fragment;
-			global::Com.Syncfusion.Carousel.Resource.Raw.lb_voice_failure = global::Xrf.CarouselDemo.Android.Resource.Raw.lb_voice_failure;
-			global::Com.Syncfusion.Carousel.Resource.Raw.lb_voice_no_input = global::Xrf.CarouselDemo.Android.Resource.Raw.lb_voice_no_input;
-			global::Com.Syncfusion.Carousel.Resource.Raw.lb_voice_open = global::Xrf.CarouselDemo.Android.Resource.Raw.lb_voice_open;
-			global::Com.Syncfusion.Carousel.Resource.Raw.lb_voice_success = global::Xrf.CarouselDemo.Android.Resource.Raw.lb_voice_success;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_control_display_fast_forward_multiplier = global::Xrf.CarouselDemo.Android.Resource.String.lb_control_display_fast_forward_multiplier;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_control_display_rewind_multiplier = global::Xrf.CarouselDemo.Android.Resource.String.lb_control_display_rewind_multiplier;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_guidedaction_continue_title = global::Xrf.CarouselDemo.Android.Resource.String.lb_guidedaction_continue_title;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_guidedaction_finish_title = global::Xrf.CarouselDemo.Android.Resource.String.lb_guidedaction_finish_title;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_guidedactions_item_disabled_chevron_alpha = global::Xrf.CarouselDemo.Android.Resource.String.lb_guidedactions_item_disabled_chevron_alpha;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_guidedactions_item_disabled_description_text_alpha = global::Xrf.CarouselDemo.Android.Resource.String.lb_guidedactions_item_disabled_description_text_alpha;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_guidedactions_item_disabled_text_alpha = global::Xrf.CarouselDemo.Android.Resource.String.lb_guidedactions_item_disabled_text_alpha;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_guidedactions_item_enabled_chevron_alpha = global::Xrf.CarouselDemo.Android.Resource.String.lb_guidedactions_item_enabled_chevron_alpha;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_guidedactions_item_unselected_description_text_alpha = global::Xrf.CarouselDemo.Android.Resource.String.lb_guidedactions_item_unselected_description_text_alpha;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_guidedactions_item_unselected_text_alpha = global::Xrf.CarouselDemo.Android.Resource.String.lb_guidedactions_item_unselected_text_alpha;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_guidedactions_width_weight = global::Xrf.CarouselDemo.Android.Resource.String.lb_guidedactions_width_weight;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_guidedactions_width_weight_two_panels = global::Xrf.CarouselDemo.Android.Resource.String.lb_guidedactions_width_weight_two_panels;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_guidedbuttonactions_width_weight = global::Xrf.CarouselDemo.Android.Resource.String.lb_guidedbuttonactions_width_weight;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_guidedstep_height_weight = global::Xrf.CarouselDemo.Android.Resource.String.lb_guidedstep_height_weight;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_guidedstep_height_weight_translucent = global::Xrf.CarouselDemo.Android.Resource.String.lb_guidedstep_height_weight_translucent;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_guidedstep_keyline = global::Xrf.CarouselDemo.Android.Resource.String.lb_guidedstep_keyline;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_navigation_menu_contentDescription = global::Xrf.CarouselDemo.Android.Resource.String.lb_navigation_menu_contentDescription;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_onboarding_accessibility_next = global::Xrf.CarouselDemo.Android.Resource.String.lb_onboarding_accessibility_next;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_onboarding_get_started = global::Xrf.CarouselDemo.Android.Resource.String.lb_onboarding_get_started;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_closed_captioning_disable = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_closed_captioning_disable;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_closed_captioning_enable = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_closed_captioning_enable;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_fast_forward = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_fast_forward;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_fast_forward_multiplier = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_fast_forward_multiplier;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_hidden = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_hidden;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_high_quality_disable = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_high_quality_disable;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_high_quality_enable = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_high_quality_enable;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_more_actions = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_more_actions;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_pause = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_pause;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_picture_in_picture = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_picture_in_picture;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_play = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_play;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_repeat_all = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_repeat_all;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_repeat_none = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_repeat_none;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_repeat_one = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_repeat_one;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_rewind = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_rewind;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_rewind_multiplier = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_rewind_multiplier;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_shown = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_shown;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_shuffle_disable = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_shuffle_disable;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_shuffle_enable = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_shuffle_enable;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_skip_next = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_skip_next;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_skip_previous = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_skip_previous;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_thumb_down = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_thumb_down;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_thumb_down_outline = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_thumb_down_outline;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_thumb_up = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_thumb_up;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_playback_controls_thumb_up_outline = global::Xrf.CarouselDemo.Android.Resource.String.lb_playback_controls_thumb_up_outline;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_search_bar_hint = global::Xrf.CarouselDemo.Android.Resource.String.lb_search_bar_hint;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_search_bar_hint_speech = global::Xrf.CarouselDemo.Android.Resource.String.lb_search_bar_hint_speech;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_search_bar_hint_with_title = global::Xrf.CarouselDemo.Android.Resource.String.lb_search_bar_hint_with_title;
-			global::Com.Syncfusion.Carousel.Resource.String.lb_search_bar_hint_with_title_speech = global::Xrf.CarouselDemo.Android.Resource.String.lb_search_bar_hint_with_title_speech;
-			global::Com.Syncfusion.Carousel.Resource.String.orb_search_action = global::Xrf.CarouselDemo.Android.Resource.String.orb_search_action;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_DetailsActionButton = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_DetailsActionButton;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_DetailsDescriptionBody = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_DetailsDescriptionBody;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_DetailsDescriptionSubtitle = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_DetailsDescriptionSubtitle;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_DetailsDescriptionTitle = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_DetailsDescriptionTitle;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_ErrorMessage = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_ErrorMessage;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_Header = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_Header;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_Header_Section = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_Header_Section;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_ImageCardView = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_ImageCardView;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_ImageCardView_Content = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_ImageCardView_Content;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_ImageCardView_Title = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_ImageCardView_Title;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_PlaybackControlLabel = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_PlaybackControlLabel;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_PlaybackControlsTime = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_PlaybackControlsTime;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_PlaybackMediaItemDuration = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_PlaybackMediaItemDuration;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_PlaybackMediaItemName = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_PlaybackMediaItemName;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_PlaybackMediaItemNumber = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_PlaybackMediaItemNumber;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_PlaybackMediaListHeaderTitle = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_PlaybackMediaListHeaderTitle;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_Row_Header = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_Row_Header;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_Row_Header_Description = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_Row_Header_Description;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_Row_HoverCardDescription = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_Row_HoverCardDescription;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_Row_HoverCardTitle = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_Row_HoverCardTitle;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_SearchTextEdit = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_SearchTextEdit;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_Leanback_Title = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_Leanback_Title;
-			global::Com.Syncfusion.Carousel.Resource.Style.TextAppearance_LeanbackBase = global::Xrf.CarouselDemo.Android.Resource.Style.TextAppearance_LeanbackBase;
-			global::Com.Syncfusion.Carousel.Resource.Style.Theme_Leanback = global::Xrf.CarouselDemo.Android.Resource.Style.Theme_Leanback;
-			global::Com.Syncfusion.Carousel.Resource.Style.Theme_Leanback_Browse = global::Xrf.CarouselDemo.Android.Resource.Style.Theme_Leanback_Browse;
-			global::Com.Syncfusion.Carousel.Resource.Style.Theme_Leanback_Details = global::Xrf.CarouselDemo.Android.Resource.Style.Theme_Leanback_Details;
-			global::Com.Syncfusion.Carousel.Resource.Style.Theme_Leanback_Details_NoSharedElementTransition = global::Xrf.CarouselDemo.Android.Resource.Style.Theme_Leanback_Details_NoSharedElementTransition;
-			global::Com.Syncfusion.Carousel.Resource.Style.Theme_Leanback_GuidedStep = global::Xrf.CarouselDemo.Android.Resource.Style.Theme_Leanback_GuidedStep;
-			global::Com.Syncfusion.Carousel.Resource.Style.Theme_Leanback_GuidedStep_Half = global::Xrf.CarouselDemo.Android.Resource.Style.Theme_Leanback_GuidedStep_Half;
-			global::Com.Syncfusion.Carousel.Resource.Style.Theme_Leanback_GuidedStepBase = global::Xrf.CarouselDemo.Android.Resource.Style.Theme_Leanback_GuidedStepBase;
-			global::Com.Syncfusion.Carousel.Resource.Style.Theme_Leanback_Onboarding = global::Xrf.CarouselDemo.Android.Resource.Style.Theme_Leanback_Onboarding;
-			global::Com.Syncfusion.Carousel.Resource.Style.Theme_Leanback_VerticalGrid = global::Xrf.CarouselDemo.Android.Resource.Style.Theme_Leanback_VerticalGrid;
-			global::Com.Syncfusion.Carousel.Resource.Style.Theme_LeanbackBase = global::Xrf.CarouselDemo.Android.Resource.Style.Theme_LeanbackBase;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_BaseCardViewStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_BaseCardViewStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_DetailsActionButtonStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_DetailsActionButtonStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_DetailsActionButtonStyleBase = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_DetailsActionButtonStyleBase;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_DetailsDescriptionBodyStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_DetailsDescriptionBodyStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_DetailsDescriptionSubtitleStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_DetailsDescriptionSubtitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_DetailsDescriptionTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_DetailsDescriptionTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_ErrorMessageStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_ErrorMessageStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GridItems = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GridItems;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GridItems_VerticalGridView = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GridItems_VerticalGridView;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidanceBreadcrumbStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidanceBreadcrumbStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidanceContainerStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidanceContainerStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidanceDescriptionStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidanceDescriptionStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidanceIconStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidanceIconStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidanceTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidanceTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidedActionItemCheckmarkStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidedActionItemCheckmarkStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidedActionItemChevronStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidedActionItemChevronStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidedActionItemContainerStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidedActionItemContainerStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidedActionItemContentStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidedActionItemContentStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidedActionItemDescriptionStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidedActionItemDescriptionStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidedActionItemIconStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidedActionItemIconStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidedActionItemTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidedActionItemTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidedActionsContainerStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidedActionsContainerStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidedActionsListStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidedActionsListStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidedActionsSelectorStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidedActionsSelectorStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidedButtonActionsListStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidedButtonActionsListStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_GuidedSubActionsListStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_GuidedSubActionsListStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Header = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Header;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Header_Section = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Header_Section;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Headers = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Headers;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Headers_VerticalGridView = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Headers_VerticalGridView;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_ImageCardView = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_ImageCardView;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_ImageCardView_BadgeStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_ImageCardView_BadgeStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_ImageCardView_ContentStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_ImageCardView_ContentStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_ImageCardView_ImageStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_ImageCardView_ImageStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_ImageCardView_InfoAreaStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_ImageCardView_InfoAreaStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_ImageCardView_TitleStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_ImageCardView_TitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_ImageCardViewStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_ImageCardViewStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_OnboardingDescriptionStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_OnboardingDescriptionStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_OnboardingHeaderStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_OnboardingHeaderStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_OnboardingLogoStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_OnboardingLogoStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_OnboardingNavigatorContainerStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_OnboardingNavigatorContainerStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_OnboardingPageIndicatorStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_OnboardingPageIndicatorStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_OnboardingStartButtonStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_OnboardingStartButtonStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_OnboardingTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_OnboardingTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_PlaybackControlLabelStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_PlaybackControlLabelStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_PlaybackControlsActionIconsStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_PlaybackControlsActionIconsStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_PlaybackControlsButtonStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_PlaybackControlsButtonStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_PlaybackControlsTimeStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_PlaybackControlsTimeStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_PlaybackMediaItemDetailsStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_PlaybackMediaItemDetailsStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_PlaybackMediaItemDurationStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_PlaybackMediaItemDurationStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_PlaybackMediaItemNameStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_PlaybackMediaItemNameStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_PlaybackMediaItemNumberStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_PlaybackMediaItemNumberStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_PlaybackMediaItemNumberViewFlipperStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_PlaybackMediaItemNumberViewFlipperStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_PlaybackMediaItemRowStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_PlaybackMediaItemRowStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_PlaybackMediaItemSeparatorStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_PlaybackMediaItemSeparatorStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_PlaybackMediaListHeaderStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_PlaybackMediaListHeaderStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_PlaybackMediaListHeaderTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_PlaybackMediaListHeaderTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_PlaybackRow = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_PlaybackRow;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Row = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Row;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Row_Header = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Row_Header;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Row_Header_Description = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Row_Header_Description;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Row_HeaderDock = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Row_HeaderDock;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Row_HorizontalGridView = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Row_HorizontalGridView;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Row_HoverCardDescription = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Row_HoverCardDescription;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Row_HoverCardTitle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Row_HoverCardTitle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Rows = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Rows;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Rows_VerticalGridView = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Rows_VerticalGridView;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_SearchOrbViewStyle = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_SearchOrbViewStyle;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Title = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Title;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Title_Icon = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Title_Icon;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_Title_Text = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_Title_Text;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_Leanback_TitleView = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_Leanback_TitleView;
-			global::Com.Syncfusion.Carousel.Resource.Style.Widget_LeanbackBase = global::Xrf.CarouselDemo.Android.Resource.Style.Widget_LeanbackBase;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_browse_enter_transition = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_browse_enter_transition;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_browse_entrance_transition = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_browse_entrance_transition;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_browse_headers_in = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_browse_headers_in;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_browse_headers_out = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_browse_headers_out;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_browse_return_transition = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_browse_return_transition;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_details_enter_transition = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_details_enter_transition;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_details_return_transition = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_details_return_transition;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_enter_transition = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_enter_transition;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_guidedstep_activity_enter = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_guidedstep_activity_enter;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_guidedstep_activity_enter_bottom = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_guidedstep_activity_enter_bottom;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_return_transition = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_return_transition;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_shared_element_enter_transition = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_shared_element_enter_transition;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_shared_element_return_transition = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_shared_element_return_transition;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_title_in = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_title_in;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_title_out = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_title_out;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_vertical_grid_enter_transition = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_vertical_grid_enter_transition;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_vertical_grid_entrance_transition = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_vertical_grid_entrance_transition;
-			global::Com.Syncfusion.Carousel.Resource.Transition.lb_vertical_grid_return_transition = global::Xrf.CarouselDemo.Android.Resource.Transition.lb_vertical_grid_return_transition;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidanceBreadcrumbStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidanceBreadcrumbStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidanceContainerStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidanceContainerStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidanceDescriptionStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidanceDescriptionStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidanceEntryAnimation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidanceEntryAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidanceIconStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidanceIconStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidanceTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidanceTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionCheckedAnimation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionCheckedAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionContentWidth = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionContentWidth;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionContentWidthNoIcon = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionContentWidthNoIcon;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionContentWidthWeight = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionContentWidthWeight;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionContentWidthWeightTwoPanels = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionContentWidthWeightTwoPanels;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionDescriptionMinLines = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionDescriptionMinLines;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionDisabledChevronAlpha = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionDisabledChevronAlpha;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionEnabledChevronAlpha = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionEnabledChevronAlpha;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionItemCheckmarkStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionItemCheckmarkStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionItemChevronStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionItemChevronStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionItemContainerStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionItemContainerStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionItemContentStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionItemContentStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionItemDescriptionStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionItemDescriptionStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionItemIconStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionItemIconStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionItemTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionItemTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionPressedAnimation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionPressedAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionTitleMaxLines = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionTitleMaxLines;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionTitleMinLines = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionTitleMinLines;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionUncheckedAnimation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionUncheckedAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionUnpressedAnimation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionUnpressedAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionVerticalPadding = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionVerticalPadding;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsBackground = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsBackground;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsBackgroundDark = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsBackgroundDark;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsContainerStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsContainerStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsElevation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsElevation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsEntryAnimation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsEntryAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsListStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsListStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsSelectorDrawable = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsSelectorDrawable;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsSelectorHideAnimation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsSelectorHideAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsSelectorShowAnimation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsSelectorShowAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsSelectorStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedActionsSelectorStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedButtonActionsListStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedButtonActionsListStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedButtonActionsWidthWeight = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedButtonActionsWidthWeight;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepBackground = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepBackground;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepEntryAnimation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepEntryAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepExitAnimation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepExitAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepHeightWeight = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepHeightWeight;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepImeAppearingAnimation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepImeAppearingAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepImeDisappearingAnimation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepImeDisappearingAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepKeyline = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepKeyline;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepReentryAnimation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepReentryAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepReturnAnimation = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepReturnAnimation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepTheme = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepTheme;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepThemeFlag = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedStepThemeFlag;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackGuidedStepTheme_guidedSubActionsListStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackGuidedStepTheme_guidedSubActionsListStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackOnboardingTheme = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackOnboardingTheme;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackOnboardingTheme_onboardingDescriptionStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackOnboardingTheme_onboardingDescriptionStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackOnboardingTheme_onboardingHeaderStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackOnboardingTheme_onboardingHeaderStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackOnboardingTheme_onboardingLogoStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackOnboardingTheme_onboardingLogoStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackOnboardingTheme_onboardingNavigatorContainerStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackOnboardingTheme_onboardingNavigatorContainerStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackOnboardingTheme_onboardingPageIndicatorStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackOnboardingTheme_onboardingPageIndicatorStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackOnboardingTheme_onboardingStartButtonStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackOnboardingTheme_onboardingStartButtonStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackOnboardingTheme_onboardingTheme = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackOnboardingTheme_onboardingTheme;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackOnboardingTheme_onboardingTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackOnboardingTheme_onboardingTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_baseCardViewStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_baseCardViewStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_browsePaddingBottom = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_browsePaddingBottom;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_browsePaddingEnd = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_browsePaddingEnd;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_browsePaddingStart = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_browsePaddingStart;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_browsePaddingTop = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_browsePaddingTop;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_browseRowsFadingEdgeLength = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_browseRowsFadingEdgeLength;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_browseRowsMarginStart = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_browseRowsMarginStart;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_browseRowsMarginTop = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_browseRowsMarginTop;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_browseTitleIconStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_browseTitleIconStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_browseTitleTextStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_browseTitleTextStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_browseTitleViewLayout = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_browseTitleViewLayout;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_browseTitleViewStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_browseTitleViewStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_defaultBrandColor = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_defaultBrandColor;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_defaultBrandColorDark = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_defaultBrandColorDark;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_defaultSearchBrightColor = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_defaultSearchBrightColor;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_defaultSearchColor = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_defaultSearchColor;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_defaultSearchIcon = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_defaultSearchIcon;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_defaultSearchIconColor = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_defaultSearchIconColor;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_defaultSectionHeaderColor = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_defaultSectionHeaderColor;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_detailsActionButtonStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_detailsActionButtonStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_detailsDescriptionBodyStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_detailsDescriptionBodyStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_detailsDescriptionSubtitleStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_detailsDescriptionSubtitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_detailsDescriptionTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_detailsDescriptionTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_errorMessageStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_errorMessageStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_headerStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_headerStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_headersVerticalGridStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_headersVerticalGridStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_imageCardViewBadgeStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_imageCardViewBadgeStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_imageCardViewContentStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_imageCardViewContentStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_imageCardViewImageStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_imageCardViewImageStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_imageCardViewInfoAreaStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_imageCardViewInfoAreaStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_imageCardViewStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_imageCardViewStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_imageCardViewTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_imageCardViewTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_itemsVerticalGridStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_itemsVerticalGridStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_overlayDimActiveLevel = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_overlayDimActiveLevel;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_overlayDimDimmedLevel = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_overlayDimDimmedLevel;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_overlayDimMaskColor = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_overlayDimMaskColor;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackControlButtonLabelStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackControlButtonLabelStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackControlsActionIcons = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackControlsActionIcons;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackControlsButtonStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackControlsButtonStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackControlsIconHighlightColor = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackControlsIconHighlightColor;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackControlsTimeStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackControlsTimeStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackMediaItemDetailsStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackMediaItemDetailsStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackMediaItemDurationStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackMediaItemDurationStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackMediaItemNameStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackMediaItemNameStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackMediaItemNumberStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackMediaItemNumberStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackMediaItemNumberViewFlipperLayout = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackMediaItemNumberViewFlipperLayout;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackMediaItemNumberViewFlipperStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackMediaItemNumberViewFlipperStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackMediaItemPaddingStart = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackMediaItemPaddingStart;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackMediaItemRowStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackMediaItemRowStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackMediaItemSeparatorStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackMediaItemSeparatorStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackMediaListHeaderStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackMediaListHeaderStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackMediaListHeaderTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackMediaListHeaderTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackPaddingEnd = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackPaddingEnd;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackPaddingStart = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackPaddingStart;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_playbackProgressPrimaryColor = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_playbackProgressPrimaryColor;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_rowHeaderDescriptionStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_rowHeaderDescriptionStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_rowHeaderDockStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_rowHeaderDockStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_rowHeaderStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_rowHeaderStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_rowHorizontalGridStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_rowHorizontalGridStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_rowHoverCardDescriptionStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_rowHoverCardDescriptionStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_rowHoverCardTitleStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_rowHoverCardTitleStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_rowsVerticalGridStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_rowsVerticalGridStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_searchOrbViewStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_searchOrbViewStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.LeanbackTheme_sectionHeaderStyle = global::Xrf.CarouselDemo.Android.Resource.Styleable.LeanbackTheme_sectionHeaderStyle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.PagingIndicator = global::Xrf.CarouselDemo.Android.Resource.Styleable.PagingIndicator;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.PagingIndicator_arrowBgColor = global::Xrf.CarouselDemo.Android.Resource.Styleable.PagingIndicator_arrowBgColor;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.PagingIndicator_arrowRadius = global::Xrf.CarouselDemo.Android.Resource.Styleable.PagingIndicator_arrowRadius;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.PagingIndicator_dotBgColor = global::Xrf.CarouselDemo.Android.Resource.Styleable.PagingIndicator_dotBgColor;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.PagingIndicator_dotToArrowGap = global::Xrf.CarouselDemo.Android.Resource.Styleable.PagingIndicator_dotToArrowGap;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.PagingIndicator_dotToDotGap = global::Xrf.CarouselDemo.Android.Resource.Styleable.PagingIndicator_dotToDotGap;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.PagingIndicator_lbDotRadius = global::Xrf.CarouselDemo.Android.Resource.Styleable.PagingIndicator_lbDotRadius;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.RecyclerView = global::Xrf.CarouselDemo.Android.Resource.Styleable.RecyclerView;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Xrf.CarouselDemo.Android.Resource.Styleable.RecyclerView_android_descendantFocusability;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.RecyclerView_android_orientation = global::Xrf.CarouselDemo.Android.Resource.Styleable.RecyclerView_android_orientation;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.RecyclerView_layoutManager = global::Xrf.CarouselDemo.Android.Resource.Styleable.RecyclerView_layoutManager;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.RecyclerView_reverseLayout = global::Xrf.CarouselDemo.Android.Resource.Styleable.RecyclerView_reverseLayout;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.RecyclerView_spanCount = global::Xrf.CarouselDemo.Android.Resource.Styleable.RecyclerView_spanCount;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.RecyclerView_stackFromEnd = global::Xrf.CarouselDemo.Android.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.SfCarousel = global::Xrf.CarouselDemo.Android.Resource.Styleable.SfCarousel;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.SfCarousel_carouselAllowLoadMore = global::Xrf.CarouselDemo.Android.Resource.Styleable.SfCarousel_carouselAllowLoadMore;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.SfCarousel_carouselDuration = global::Xrf.CarouselDemo.Android.Resource.Styleable.SfCarousel_carouselDuration;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.SfCarousel_carouselEnableVirtualization = global::Xrf.CarouselDemo.Android.Resource.Styleable.SfCarousel_carouselEnableVirtualization;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.SfCarousel_carouselItemHeight = global::Xrf.CarouselDemo.Android.Resource.Styleable.SfCarousel_carouselItemHeight;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.SfCarousel_carouselItemSpacing = global::Xrf.CarouselDemo.Android.Resource.Styleable.SfCarousel_carouselItemSpacing;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.SfCarousel_carouselItemWidth = global::Xrf.CarouselDemo.Android.Resource.Styleable.SfCarousel_carouselItemWidth;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.SfCarousel_carouselLoadMoreItemsCount = global::Xrf.CarouselDemo.Android.Resource.Styleable.SfCarousel_carouselLoadMoreItemsCount;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.SfCarousel_carouselOffset = global::Xrf.CarouselDemo.Android.Resource.Styleable.SfCarousel_carouselOffset;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.SfCarousel_carouselRotationAngle = global::Xrf.CarouselDemo.Android.Resource.Styleable.SfCarousel_carouselRotationAngle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.SfCarousel_carouselScaleOffset = global::Xrf.CarouselDemo.Android.Resource.Styleable.SfCarousel_carouselScaleOffset;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.SfCarousel_carouselSelectedIndex = global::Xrf.CarouselDemo.Android.Resource.Styleable.SfCarousel_carouselSelectedIndex;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.SfCarousel_carouselSelectedItemOffset = global::Xrf.CarouselDemo.Android.Resource.Styleable.SfCarousel_carouselSelectedItemOffset;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.SfCarousel_carouselViewMode = global::Xrf.CarouselDemo.Android.Resource.Styleable.SfCarousel_carouselViewMode;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseCardView = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseCardView;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseCardView_activatedAnimationDuration = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseCardView_activatedAnimationDuration;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseCardView_cardBackground = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseCardView_cardBackground;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseCardView_cardForeground = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseCardView_cardForeground;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseCardView_cardType = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseCardView_cardType;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseCardView_extraVisibility = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseCardView_extraVisibility;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseCardView_infoVisibility = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseCardView_infoVisibility;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseCardView_selectedAnimationDelay = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseCardView_selectedAnimationDelay;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseCardView_selectedAnimationDuration = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseCardView_selectedAnimationDuration;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseCardView_Layout = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseCardView_Layout;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseCardView_Layout_layout_viewType = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseCardView_Layout_layout_viewType;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseGridView = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseGridView;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseGridView_android_gravity = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseGridView_android_gravity;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseGridView_android_horizontalSpacing = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseGridView_android_horizontalSpacing;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseGridView_android_verticalSpacing = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseGridView_android_verticalSpacing;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseGridView_focusOutEnd = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseGridView_focusOutEnd;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseGridView_focusOutFront = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseGridView_focusOutFront;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseGridView_focusOutSideEnd = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseGridView_focusOutSideEnd;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseGridView_focusOutSideStart = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseGridView_focusOutSideStart;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseGridView_horizontalMargin = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseGridView_horizontalMargin;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbBaseGridView_verticalMargin = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbBaseGridView_verticalMargin;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbDatePicker = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbDatePicker;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbDatePicker_android_maxDate = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbDatePicker_android_maxDate;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbDatePicker_android_minDate = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbDatePicker_android_minDate;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbDatePicker_datePickerFormat = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbDatePicker_datePickerFormat;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbHorizontalGridView = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbHorizontalGridView;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbHorizontalGridView_numberOfRows = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbHorizontalGridView_numberOfRows;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbHorizontalGridView_rowHeight = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbHorizontalGridView_rowHeight;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbImageCardView = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbImageCardView;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbImageCardView_infoAreaBackground = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbImageCardView_infoAreaBackground;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbImageCardView_lbImageCardViewType = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbImageCardView_lbImageCardViewType;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_closed_captioning = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_closed_captioning;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_fast_forward = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_fast_forward;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_high_quality = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_high_quality;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_pause = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_pause;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_picture_in_picture = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_picture_in_picture;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_play = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_play;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_repeat = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_repeat;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_repeat_one = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_repeat_one;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_rewind = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_rewind;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_shuffle = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_shuffle;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_skip_next = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_skip_next;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_skip_previous = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_skip_previous;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_thumb_down = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_thumb_down;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_thumb_down_outline = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_thumb_down_outline;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_thumb_up = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_thumb_up;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbPlaybackControlsActionIcons_thumb_up_outline = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbPlaybackControlsActionIcons_thumb_up_outline;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbResizingTextView = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbResizingTextView;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbResizingTextView_maintainLineSpacing = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbResizingTextView_maintainLineSpacing;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbResizingTextView_resizeTrigger = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbResizingTextView_resizeTrigger;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbResizingTextView_resizedPaddingAdjustmentBottom = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbResizingTextView_resizedPaddingAdjustmentBottom;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbResizingTextView_resizedPaddingAdjustmentTop = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbResizingTextView_resizedPaddingAdjustmentTop;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbResizingTextView_resizedTextSize = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbResizingTextView_resizedTextSize;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbSearchOrbView = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbSearchOrbView;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbSearchOrbView_searchOrbBrightColor = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbSearchOrbView_searchOrbBrightColor;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbSearchOrbView_searchOrbColor = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbSearchOrbView_searchOrbColor;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbSearchOrbView_searchOrbIcon = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbSearchOrbView_searchOrbIcon;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbSearchOrbView_searchOrbIconColor = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbSearchOrbView_searchOrbIconColor;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbSlide = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbSlide;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbSlide_android_duration = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbSlide_android_duration;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbSlide_android_interpolator = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbSlide_android_interpolator;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbSlide_android_startDelay = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbSlide_android_startDelay;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbSlide_lb_slideEdge = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbSlide_lb_slideEdge;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbTimePicker = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbTimePicker;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbTimePicker_is24HourFormat = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbTimePicker_is24HourFormat;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbTimePicker_useCurrentTime = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbTimePicker_useCurrentTime;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbVerticalGridView = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbVerticalGridView;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbVerticalGridView_columnWidth = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbVerticalGridView_columnWidth;
-			global::Com.Syncfusion.Carousel.Resource.Styleable.lbVerticalGridView_numberOfColumns = global::Xrf.CarouselDemo.Android.Resource.Styleable.lbVerticalGridView_numberOfColumns;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::Xrf.CarouselDemo.Android.Resource.Attribute.actionBarSize;
 		}
 		
@@ -1724,45 +504,6 @@ namespace Xrf.CarouselDemo.Android
 			
 			// aapt resource value: 0x7f010038
 			public const int cardUseCompatPadding = 2130772024;
-			
-			// aapt resource value: 0x7f010251
-			public const int carouselAllowLoadMore = 2130772561;
-			
-			// aapt resource value: 0x7f01024e
-			public const int carouselDuration = 2130772558;
-			
-			// aapt resource value: 0x7f010246
-			public const int carouselEnableVirtualization = 2130772550;
-			
-			// aapt resource value: 0x7f01024a
-			public const int carouselItemHeight = 2130772554;
-			
-			// aapt resource value: 0x7f010247
-			public const int carouselItemSpacing = 2130772551;
-			
-			// aapt resource value: 0x7f01024b
-			public const int carouselItemWidth = 2130772555;
-			
-			// aapt resource value: 0x7f010250
-			public const int carouselLoadMoreItemsCount = 2130772560;
-			
-			// aapt resource value: 0x7f010248
-			public const int carouselOffset = 2130772552;
-			
-			// aapt resource value: 0x7f01024c
-			public const int carouselRotationAngle = 2130772556;
-			
-			// aapt resource value: 0x7f01024f
-			public const int carouselScaleOffset = 2130772559;
-			
-			// aapt resource value: 0x7f010249
-			public const int carouselSelectedIndex = 2130772553;
-			
-			// aapt resource value: 0x7f01024d
-			public const int carouselSelectedItemOffset = 2130772557;
-			
-			// aapt resource value: 0x7f010245
-			public const int carouselViewMode = 2130772549;
 			
 			// aapt resource value: 0x7f0100da
 			public const int checkboxStyle = 2130772186;
@@ -6138,9 +4879,6 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0066
 			public const int Content = 2131558502;
 			
-			// aapt resource value: 0x7f0d0086
-			public const int Default = 2131558534;
-			
 			// aapt resource value: 0x7f0d0052
 			public const int FUNCTION = 2131558482;
 			
@@ -6152,9 +4890,6 @@ namespace Xrf.CarouselDemo.Android
 			
 			// aapt resource value: 0x7f0d0069
 			public const int ImageOnly = 2131558505;
-			
-			// aapt resource value: 0x7f0d0087
-			public const int Linear = 2131558535;
 			
 			// aapt resource value: 0x7f0d0053
 			public const int META = 2131558483;
@@ -6168,53 +4903,53 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d006a
 			public const int Title = 2131558506;
 			
-			// aapt resource value: 0x7f0d016d
-			public const int action0 = 2131558765;
+			// aapt resource value: 0x7f0d016b
+			public const int action0 = 2131558763;
 			
-			// aapt resource value: 0x7f0d013d
-			public const int actionIcon = 2131558717;
+			// aapt resource value: 0x7f0d013b
+			public const int actionIcon = 2131558715;
 			
-			// aapt resource value: 0x7f0d00aa
-			public const int action_bar = 2131558570;
+			// aapt resource value: 0x7f0d00a8
+			public const int action_bar = 2131558568;
 			
 			// aapt resource value: 0x7f0d0001
 			public const int action_bar_activity_content = 2131558401;
 			
-			// aapt resource value: 0x7f0d00a9
-			public const int action_bar_container = 2131558569;
+			// aapt resource value: 0x7f0d00a7
+			public const int action_bar_container = 2131558567;
 			
-			// aapt resource value: 0x7f0d00a5
-			public const int action_bar_root = 2131558565;
+			// aapt resource value: 0x7f0d00a3
+			public const int action_bar_root = 2131558563;
 			
 			// aapt resource value: 0x7f0d0002
 			public const int action_bar_spinner = 2131558402;
 			
-			// aapt resource value: 0x7f0d0089
-			public const int action_bar_subtitle = 2131558537;
+			// aapt resource value: 0x7f0d0087
+			public const int action_bar_subtitle = 2131558535;
 			
-			// aapt resource value: 0x7f0d0088
-			public const int action_bar_title = 2131558536;
+			// aapt resource value: 0x7f0d0086
+			public const int action_bar_title = 2131558534;
 			
-			// aapt resource value: 0x7f0d016a
-			public const int action_container = 2131558762;
+			// aapt resource value: 0x7f0d0168
+			public const int action_container = 2131558760;
 			
-			// aapt resource value: 0x7f0d00ab
-			public const int action_context_bar = 2131558571;
+			// aapt resource value: 0x7f0d00a9
+			public const int action_context_bar = 2131558569;
 			
-			// aapt resource value: 0x7f0d0171
-			public const int action_divider = 2131558769;
-			
-			// aapt resource value: 0x7f0d0101
-			public const int action_fragment = 2131558657;
-			
-			// aapt resource value: 0x7f0d0100
-			public const int action_fragment_background = 2131558656;
+			// aapt resource value: 0x7f0d016f
+			public const int action_divider = 2131558767;
 			
 			// aapt resource value: 0x7f0d00ff
-			public const int action_fragment_root = 2131558655;
+			public const int action_fragment = 2131558655;
 			
-			// aapt resource value: 0x7f0d016b
-			public const int action_image = 2131558763;
+			// aapt resource value: 0x7f0d00fe
+			public const int action_fragment_background = 2131558654;
+			
+			// aapt resource value: 0x7f0d00fd
+			public const int action_fragment_root = 2131558653;
+			
+			// aapt resource value: 0x7f0d0169
+			public const int action_image = 2131558761;
 			
 			// aapt resource value: 0x7f0d0003
 			public const int action_menu_divider = 2131558403;
@@ -6222,26 +4957,26 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0004
 			public const int action_menu_presenter = 2131558404;
 			
-			// aapt resource value: 0x7f0d00a7
-			public const int action_mode_bar = 2131558567;
+			// aapt resource value: 0x7f0d00a5
+			public const int action_mode_bar = 2131558565;
 			
-			// aapt resource value: 0x7f0d00a6
-			public const int action_mode_bar_stub = 2131558566;
+			// aapt resource value: 0x7f0d00a4
+			public const int action_mode_bar_stub = 2131558564;
 			
-			// aapt resource value: 0x7f0d008a
-			public const int action_mode_close_button = 2131558538;
+			// aapt resource value: 0x7f0d0088
+			public const int action_mode_close_button = 2131558536;
 			
-			// aapt resource value: 0x7f0d016c
-			public const int action_text = 2131558764;
+			// aapt resource value: 0x7f0d016a
+			public const int action_text = 2131558762;
 			
-			// aapt resource value: 0x7f0d0179
-			public const int actions = 2131558777;
+			// aapt resource value: 0x7f0d0177
+			public const int actions = 2131558775;
 			
 			// aapt resource value: 0x7f0d0061
 			public const int activated = 2131558497;
 			
-			// aapt resource value: 0x7f0d008b
-			public const int activity_chooser_view_content = 2131558539;
+			// aapt resource value: 0x7f0d0089
+			public const int activity_chooser_view_content = 2131558537;
 			
 			// aapt resource value: 0x7f0d0045
 			public const int add = 2131558469;
@@ -6252,8 +4987,8 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0036
 			public const int adjust_width = 2131558454;
 			
-			// aapt resource value: 0x7f0d009e
-			public const int alertTitle = 2131558558;
+			// aapt resource value: 0x7f0d009c
+			public const int alertTitle = 2131558556;
 			
 			// aapt resource value: 0x7f0d007e
 			public const int all = 2131558526;
@@ -6267,26 +5002,26 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d003a
 			public const int auto = 2131558458;
 			
-			// aapt resource value: 0x7f0d0135
-			public const int background = 2131558709;
+			// aapt resource value: 0x7f0d0133
+			public const int background = 2131558707;
 			
-			// aapt resource value: 0x7f0d0112
-			public const int background_container = 2131558674;
+			// aapt resource value: 0x7f0d0110
+			public const int background_container = 2131558672;
 			
-			// aapt resource value: 0x7f0d017f
-			public const int background_imagein = 2131558783;
+			// aapt resource value: 0x7f0d017d
+			public const int background_imagein = 2131558781;
 			
-			// aapt resource value: 0x7f0d017e
-			public const int background_imageout = 2131558782;
+			// aapt resource value: 0x7f0d017c
+			public const int background_imageout = 2131558780;
+			
+			// aapt resource value: 0x7f0d012a
+			public const int bar1 = 2131558698;
+			
+			// aapt resource value: 0x7f0d012b
+			public const int bar2 = 2131558699;
 			
 			// aapt resource value: 0x7f0d012c
-			public const int bar1 = 2131558700;
-			
-			// aapt resource value: 0x7f0d012d
-			public const int bar2 = 2131558701;
-			
-			// aapt resource value: 0x7f0d012e
-			public const int bar3 = 2131558702;
+			public const int bar3 = 2131558700;
 			
 			// aapt resource value: 0x7f0d004d
 			public const int beginning = 2131558477;
@@ -6297,47 +5032,47 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d005b
 			public const int bottom = 2131558491;
 			
-			// aapt resource value: 0x7f0d0128
-			public const int bottom_spacer = 2131558696;
-			
-			// aapt resource value: 0x7f0d00ca
-			public const int browse_container_dock = 2131558602;
+			// aapt resource value: 0x7f0d0126
+			public const int bottom_spacer = 2131558694;
 			
 			// aapt resource value: 0x7f0d00c8
-			public const int browse_dummy = 2131558600;
+			public const int browse_container_dock = 2131558600;
 			
-			// aapt resource value: 0x7f0d00c9
-			public const int browse_frame = 2131558601;
+			// aapt resource value: 0x7f0d00c6
+			public const int browse_dummy = 2131558598;
+			
+			// aapt resource value: 0x7f0d00c7
+			public const int browse_frame = 2131558599;
+			
+			// aapt resource value: 0x7f0d0149
+			public const int browse_grid = 2131558729;
 			
 			// aapt resource value: 0x7f0d014b
-			public const int browse_grid = 2131558731;
+			public const int browse_grid_dock = 2131558731;
 			
-			// aapt resource value: 0x7f0d014d
-			public const int browse_grid_dock = 2131558733;
+			// aapt resource value: 0x7f0d0101
+			public const int browse_headers = 2131558657;
 			
-			// aapt resource value: 0x7f0d0103
-			public const int browse_headers = 2131558659;
+			// aapt resource value: 0x7f0d00ca
+			public const int browse_headers_dock = 2131558602;
 			
-			// aapt resource value: 0x7f0d00cc
-			public const int browse_headers_dock = 2131558604;
+			// aapt resource value: 0x7f0d0100
+			public const int browse_headers_root = 2131558656;
 			
-			// aapt resource value: 0x7f0d0102
-			public const int browse_headers_root = 2131558658;
+			// aapt resource value: 0x7f0d00cb
+			public const int browse_title_group = 2131558603;
 			
 			// aapt resource value: 0x7f0d00cd
-			public const int browse_title_group = 2131558605;
+			public const int button = 2131558605;
 			
-			// aapt resource value: 0x7f0d00cf
-			public const int button = 2131558607;
+			// aapt resource value: 0x7f0d008f
+			public const int buttonPanel = 2131558543;
 			
-			// aapt resource value: 0x7f0d0091
-			public const int buttonPanel = 2131558545;
+			// aapt resource value: 0x7f0d0116
+			public const int button_start = 2131558678;
 			
-			// aapt resource value: 0x7f0d0118
-			public const int button_start = 2131558680;
-			
-			// aapt resource value: 0x7f0d016e
-			public const int cancel_action = 2131558766;
+			// aapt resource value: 0x7f0d016c
+			public const int cancel_action = 2131558764;
 			
 			// aapt resource value: 0x7f0d0074
 			public const int center = 2131558516;
@@ -6348,11 +5083,11 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0076
 			public const int center_vertical = 2131558518;
 			
-			// aapt resource value: 0x7f0d00a1
-			public const int checkbox = 2131558561;
+			// aapt resource value: 0x7f0d009f
+			public const int checkbox = 2131558559;
 			
-			// aapt resource value: 0x7f0d0176
-			public const int chronometer = 2131558774;
+			// aapt resource value: 0x7f0d0174
+			public const int chronometer = 2131558772;
 			
 			// aapt resource value: 0x7f0d007a
 			public const int clip_horizontal = 2131558522;
@@ -6363,134 +5098,134 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0057
 			public const int collapseActionView = 2131558487;
 			
-			// aapt resource value: 0x7f0d011c
-			public const int column = 2131558684;
+			// aapt resource value: 0x7f0d011a
+			public const int column = 2131558682;
 			
-			// aapt resource value: 0x7f0d00bb
-			public const int container = 2131558587;
+			// aapt resource value: 0x7f0d00b9
+			public const int container = 2131558585;
 			
-			// aapt resource value: 0x7f0d013e
-			public const int container_list = 2131558718;
+			// aapt resource value: 0x7f0d013c
+			public const int container_list = 2131558716;
 			
-			// aapt resource value: 0x7f0d0094
-			public const int contentPanel = 2131558548;
+			// aapt resource value: 0x7f0d0092
+			public const int contentPanel = 2131558546;
 			
-			// aapt resource value: 0x7f0d0115
-			public const int content_container = 2131558677;
+			// aapt resource value: 0x7f0d0113
+			public const int content_container = 2131558675;
 			
-			// aapt resource value: 0x7f0d00fe
-			public const int content_fragment = 2131558654;
+			// aapt resource value: 0x7f0d00fc
+			public const int content_fragment = 2131558652;
 			
-			// aapt resource value: 0x7f0d00fd
-			public const int content_frame = 2131558653;
+			// aapt resource value: 0x7f0d00fb
+			public const int content_frame = 2131558651;
 			
-			// aapt resource value: 0x7f0d0108
-			public const int content_text = 2131558664;
+			// aapt resource value: 0x7f0d0106
+			public const int content_text = 2131558662;
 			
-			// aapt resource value: 0x7f0d00ce
-			public const int control_bar = 2131558606;
-			
-			// aapt resource value: 0x7f0d0123
-			public const int controls_card = 2131558691;
-			
-			// aapt resource value: 0x7f0d0124
-			public const int controls_card_right_panel = 2131558692;
-			
-			// aapt resource value: 0x7f0d011f
-			public const int controls_container = 2131558687;
-			
-			// aapt resource value: 0x7f0d0126
-			public const int controls_dock = 2131558694;
-			
-			// aapt resource value: 0x7f0d00bc
-			public const int coordinator = 2131558588;
+			// aapt resource value: 0x7f0d00cc
+			public const int control_bar = 2131558604;
 			
 			// aapt resource value: 0x7f0d0121
-			public const int current_time = 2131558689;
+			public const int controls_card = 2131558689;
 			
-			// aapt resource value: 0x7f0d009b
-			public const int custom = 2131558555;
+			// aapt resource value: 0x7f0d0122
+			public const int controls_card_right_panel = 2131558690;
 			
-			// aapt resource value: 0x7f0d009a
-			public const int customPanel = 2131558554;
+			// aapt resource value: 0x7f0d011d
+			public const int controls_container = 2131558685;
+			
+			// aapt resource value: 0x7f0d0124
+			public const int controls_dock = 2131558692;
+			
+			// aapt resource value: 0x7f0d00ba
+			public const int coordinator = 2131558586;
+			
+			// aapt resource value: 0x7f0d011f
+			public const int current_time = 2131558687;
+			
+			// aapt resource value: 0x7f0d0099
+			public const int custom = 2131558553;
+			
+			// aapt resource value: 0x7f0d0098
+			public const int customPanel = 2131558552;
 			
 			// aapt resource value: 0x7f0d003b
 			public const int dark = 2131558459;
 			
-			// aapt resource value: 0x7f0d00a8
-			public const int decor_content_parent = 2131558568;
+			// aapt resource value: 0x7f0d00a6
+			public const int decor_content_parent = 2131558566;
 			
-			// aapt resource value: 0x7f0d008e
-			public const int default_activity_button = 2131558542;
+			// aapt resource value: 0x7f0d008c
+			public const int default_activity_button = 2131558540;
 			
-			// aapt resource value: 0x7f0d010c
-			public const int description = 2131558668;
+			// aapt resource value: 0x7f0d010a
+			public const int description = 2131558666;
 			
-			// aapt resource value: 0x7f0d0125
-			public const int description_dock = 2131558693;
+			// aapt resource value: 0x7f0d0123
+			public const int description_dock = 2131558691;
 			
-			// aapt resource value: 0x7f0d00be
-			public const int design_bottom_sheet = 2131558590;
-			
-			// aapt resource value: 0x7f0d00c5
-			public const int design_menu_item_action_area = 2131558597;
-			
-			// aapt resource value: 0x7f0d00c4
-			public const int design_menu_item_action_area_stub = 2131558596;
+			// aapt resource value: 0x7f0d00bc
+			public const int design_bottom_sheet = 2131558588;
 			
 			// aapt resource value: 0x7f0d00c3
-			public const int design_menu_item_text = 2131558595;
+			public const int design_menu_item_action_area = 2131558595;
 			
 			// aapt resource value: 0x7f0d00c2
-			public const int design_navigation_view = 2131558594;
+			public const int design_menu_item_action_area_stub = 2131558594;
 			
-			// aapt resource value: 0x7f0d00d6
-			public const int details_background_view = 2131558614;
+			// aapt resource value: 0x7f0d00c1
+			public const int design_menu_item_text = 2131558593;
+			
+			// aapt resource value: 0x7f0d00c0
+			public const int design_navigation_view = 2131558592;
+			
+			// aapt resource value: 0x7f0d00d4
+			public const int details_background_view = 2131558612;
+			
+			// aapt resource value: 0x7f0d00d5
+			public const int details_fragment_root = 2131558613;
 			
 			// aapt resource value: 0x7f0d00d7
-			public const int details_fragment_root = 2131558615;
-			
-			// aapt resource value: 0x7f0d00d9
-			public const int details_frame = 2131558617;
-			
-			// aapt resource value: 0x7f0d00da
-			public const int details_overview = 2131558618;
-			
-			// aapt resource value: 0x7f0d00de
-			public const int details_overview_actions = 2131558622;
-			
-			// aapt resource value: 0x7f0d00e3
-			public const int details_overview_actions_background = 2131558627;
-			
-			// aapt resource value: 0x7f0d00dd
-			public const int details_overview_description = 2131558621;
-			
-			// aapt resource value: 0x7f0d00db
-			public const int details_overview_image = 2131558619;
-			
-			// aapt resource value: 0x7f0d00dc
-			public const int details_overview_right_panel = 2131558620;
-			
-			// aapt resource value: 0x7f0d00e2
-			public const int details_root = 2131558626;
+			public const int details_frame = 2131558615;
 			
 			// aapt resource value: 0x7f0d00d8
-			public const int details_rows_dock = 2131558616;
+			public const int details_overview = 2131558616;
+			
+			// aapt resource value: 0x7f0d00dc
+			public const int details_overview_actions = 2131558620;
+			
+			// aapt resource value: 0x7f0d00e1
+			public const int details_overview_actions_background = 2131558625;
+			
+			// aapt resource value: 0x7f0d00db
+			public const int details_overview_description = 2131558619;
+			
+			// aapt resource value: 0x7f0d00d9
+			public const int details_overview_image = 2131558617;
+			
+			// aapt resource value: 0x7f0d00da
+			public const int details_overview_right_panel = 2131558618;
+			
+			// aapt resource value: 0x7f0d00e0
+			public const int details_root = 2131558624;
+			
+			// aapt resource value: 0x7f0d00d6
+			public const int details_rows_dock = 2131558614;
 			
 			// aapt resource value: 0x7f0d003f
 			public const int disableHome = 2131558463;
 			
-			// aapt resource value: 0x7f0d00d4
-			public const int dummy = 2131558612;
+			// aapt resource value: 0x7f0d00d2
+			public const int dummy = 2131558610;
 			
-			// aapt resource value: 0x7f0d00ac
-			public const int edit_query = 2131558572;
+			// aapt resource value: 0x7f0d00aa
+			public const int edit_query = 2131558570;
 			
 			// aapt resource value: 0x7f0d004e
 			public const int end = 2131558478;
 			
-			// aapt resource value: 0x7f0d017b
-			public const int end_padder = 2131558779;
+			// aapt resource value: 0x7f0d0179
+			public const int end_padder = 2131558777;
 			
 			// aapt resource value: 0x7f0d006f
 			public const int enterAlways = 2131558511;
@@ -6498,26 +5233,26 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0070
 			public const int enterAlwaysCollapsed = 2131558512;
 			
-			// aapt resource value: 0x7f0d00e0
-			public const int error_frame = 2131558624;
+			// aapt resource value: 0x7f0d00de
+			public const int error_frame = 2131558622;
 			
 			// aapt resource value: 0x7f0d0071
 			public const int exitUntilCollapsed = 2131558513;
 			
-			// aapt resource value: 0x7f0d008c
-			public const int expand_activities_button = 2131558540;
+			// aapt resource value: 0x7f0d008a
+			public const int expand_activities_button = 2131558538;
 			
-			// aapt resource value: 0x7f0d00a0
-			public const int expanded_menu = 2131558560;
+			// aapt resource value: 0x7f0d009e
+			public const int expanded_menu = 2131558558;
 			
 			// aapt resource value: 0x7f0d0063
 			public const int extra = 2131558499;
 			
-			// aapt resource value: 0x7f0d0107
-			public const int extra_badge = 2131558663;
+			// aapt resource value: 0x7f0d0105
+			public const int extra_badge = 2131558661;
 			
-			// aapt resource value: 0x7f0d0104
-			public const int fade_out_edge = 2131558660;
+			// aapt resource value: 0x7f0d0102
+			public const int fade_out_edge = 2131558658;
 			
 			// aapt resource value: 0x7f0d007c
 			public const int fill = 2131558524;
@@ -6531,8 +5266,8 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0080
 			public const int @fixed = 2131558528;
 			
-			// aapt resource value: 0x7f0d0119
-			public const int foreground_container = 2131558681;
+			// aapt resource value: 0x7f0d0117
+			public const int foreground_container = 2131558679;
 			
 			// aapt resource value: 0x7f0d0084
 			public const int forever = 2131558532;
@@ -6540,83 +5275,83 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d001d
 			public const int ghost_view = 2131558429;
 			
-			// aapt resource value: 0x7f0d014c
-			public const int grid_frame = 2131558732;
-			
-			// aapt resource value: 0x7f0d00e6
-			public const int guidance_breadcrumb = 2131558630;
+			// aapt resource value: 0x7f0d014a
+			public const int grid_frame = 2131558730;
 			
 			// aapt resource value: 0x7f0d00e4
-			public const int guidance_container = 2131558628;
+			public const int guidance_breadcrumb = 2131558628;
 			
-			// aapt resource value: 0x7f0d00e8
-			public const int guidance_description = 2131558632;
+			// aapt resource value: 0x7f0d00e2
+			public const int guidance_container = 2131558626;
+			
+			// aapt resource value: 0x7f0d00e6
+			public const int guidance_description = 2131558630;
+			
+			// aapt resource value: 0x7f0d00e3
+			public const int guidance_icon = 2131558627;
 			
 			// aapt resource value: 0x7f0d00e5
-			public const int guidance_icon = 2131558629;
-			
-			// aapt resource value: 0x7f0d00e7
-			public const int guidance_title = 2131558631;
-			
-			// aapt resource value: 0x7f0d00f1
-			public const int guidedactions_activator_item = 2131558641;
-			
-			// aapt resource value: 0x7f0d00eb
-			public const int guidedactions_content = 2131558635;
-			
-			// aapt resource value: 0x7f0d00f8
-			public const int guidedactions_content2 = 2131558648;
-			
-			// aapt resource value: 0x7f0d00f2
-			public const int guidedactions_item_checkmark = 2131558642;
-			
-			// aapt resource value: 0x7f0d00f5
-			public const int guidedactions_item_chevron = 2131558645;
-			
-			// aapt resource value: 0x7f0d00f3
-			public const int guidedactions_item_content = 2131558643;
-			
-			// aapt resource value: 0x7f0d00f4
-			public const int guidedactions_item_description = 2131558644;
+			public const int guidance_title = 2131558629;
 			
 			// aapt resource value: 0x7f0d00ef
-			public const int guidedactions_item_icon = 2131558639;
-			
-			// aapt resource value: 0x7f0d00f0
-			public const int guidedactions_item_title = 2131558640;
-			
-			// aapt resource value: 0x7f0d00ec
-			public const int guidedactions_list = 2131558636;
-			
-			// aapt resource value: 0x7f0d00f9
-			public const int guidedactions_list2 = 2131558649;
-			
-			// aapt resource value: 0x7f0d00ea
-			public const int guidedactions_list_background = 2131558634;
-			
-			// aapt resource value: 0x7f0d00f7
-			public const int guidedactions_list_background2 = 2131558647;
+			public const int guidedactions_activator_item = 2131558639;
 			
 			// aapt resource value: 0x7f0d00e9
-			public const int guidedactions_root = 2131558633;
+			public const int guidedactions_content = 2131558633;
 			
 			// aapt resource value: 0x7f0d00f6
-			public const int guidedactions_root2 = 2131558646;
+			public const int guidedactions_content2 = 2131558646;
 			
-			// aapt resource value: 0x7f0d00ee
-			public const int guidedactions_sub_list = 2131558638;
+			// aapt resource value: 0x7f0d00f0
+			public const int guidedactions_item_checkmark = 2131558640;
+			
+			// aapt resource value: 0x7f0d00f3
+			public const int guidedactions_item_chevron = 2131558643;
+			
+			// aapt resource value: 0x7f0d00f1
+			public const int guidedactions_item_content = 2131558641;
+			
+			// aapt resource value: 0x7f0d00f2
+			public const int guidedactions_item_description = 2131558642;
 			
 			// aapt resource value: 0x7f0d00ed
-			public const int guidedactions_sub_list_background = 2131558637;
+			public const int guidedactions_item_icon = 2131558637;
+			
+			// aapt resource value: 0x7f0d00ee
+			public const int guidedactions_item_title = 2131558638;
+			
+			// aapt resource value: 0x7f0d00ea
+			public const int guidedactions_list = 2131558634;
+			
+			// aapt resource value: 0x7f0d00f7
+			public const int guidedactions_list2 = 2131558647;
+			
+			// aapt resource value: 0x7f0d00e8
+			public const int guidedactions_list_background = 2131558632;
+			
+			// aapt resource value: 0x7f0d00f5
+			public const int guidedactions_list_background2 = 2131558645;
+			
+			// aapt resource value: 0x7f0d00e7
+			public const int guidedactions_root = 2131558631;
+			
+			// aapt resource value: 0x7f0d00f4
+			public const int guidedactions_root2 = 2131558644;
+			
+			// aapt resource value: 0x7f0d00ec
+			public const int guidedactions_sub_list = 2131558636;
+			
+			// aapt resource value: 0x7f0d00eb
+			public const int guidedactions_sub_list_background = 2131558635;
+			
+			// aapt resource value: 0x7f0d00f8
+			public const int guidedstep_background = 2131558648;
 			
 			// aapt resource value: 0x7f0d00fa
-			public const int guidedstep_background = 2131558650;
+			public const int guidedstep_background_view_root = 2131558650;
 			
-			// aapt resource value: 0x7f0d00fc
-			public const int guidedstep_background_view_root = 2131558652;
-			
-			// aapt resource value: 0x7f0d00fb
-			public const int guidedstep_root = 2131558651;
+			// aapt resource value: 0x7f0d00f9
+			public const int guidedstep_root = 2131558649;
 			
 			// aapt resource value: 0x7f0d0005
 			public const int home = 2131558405;
@@ -6624,17 +5359,17 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0040
 			public const int homeAsUp = 2131558464;
 			
-			// aapt resource value: 0x7f0d010b
-			public const int hovercard_panel = 2131558667;
+			// aapt resource value: 0x7f0d0109
+			public const int hovercard_panel = 2131558665;
 			
 			// aapt resource value: 0x7f0d0030
 			public const int hybrid = 2131558448;
 			
-			// aapt resource value: 0x7f0d0090
-			public const int icon = 2131558544;
+			// aapt resource value: 0x7f0d008e
+			public const int icon = 2131558542;
 			
-			// aapt resource value: 0x7f0d017a
-			public const int icon_group = 2131558778;
+			// aapt resource value: 0x7f0d0178
+			public const int icon_group = 2131558776;
 			
 			// aapt resource value: 0x7f0d0037
 			public const int icon_only = 2131558455;
@@ -6642,8 +5377,8 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0058
 			public const int ifRoom = 2131558488;
 			
-			// aapt resource value: 0x7f0d008d
-			public const int image = 2131558541;
+			// aapt resource value: 0x7f0d008b
+			public const int image = 2131558539;
 			
 			// aapt resource value: 0x7f0d0064
 			public const int info = 2131558500;
@@ -6657,11 +5392,11 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d005f
 			public const int infoUnderWithExtra = 2131558495;
 			
-			// aapt resource value: 0x7f0d0106
-			public const int info_field = 2131558662;
+			// aapt resource value: 0x7f0d0104
+			public const int info_field = 2131558660;
 			
-			// aapt resource value: 0x7f0d010d
-			public const int initial = 2131558669;
+			// aapt resource value: 0x7f0d010b
+			public const int initial = 2131558667;
 			
 			// aapt resource value: 0x7f0d0085
 			public const int italic = 2131558533;
@@ -6669,14 +5404,14 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0000
 			public const int item_touch_helper_previous_elevation = 2131558400;
 			
-			// aapt resource value: 0x7f0d00d0
-			public const int label = 2131558608;
+			// aapt resource value: 0x7f0d00ce
+			public const int label = 2131558606;
 			
-			// aapt resource value: 0x7f0d00ba
-			public const int largeLabel = 2131558586;
+			// aapt resource value: 0x7f0d00b8
+			public const int largeLabel = 2131558584;
 			
-			// aapt resource value: 0x7f0d00c7
-			public const int lb_action_button = 2131558599;
+			// aapt resource value: 0x7f0d00c5
+			public const int lb_action_button = 2131558597;
 			
 			// aapt resource value: 0x7f0d000a
 			public const int lb_control_closed_captioning = 2131558410;
@@ -6717,14 +5452,14 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0016
 			public const int lb_control_thumbs_up = 2131558422;
 			
-			// aapt resource value: 0x7f0d00d3
-			public const int lb_details_description_body = 2131558611;
-			
-			// aapt resource value: 0x7f0d00d2
-			public const int lb_details_description_subtitle = 2131558610;
-			
 			// aapt resource value: 0x7f0d00d1
-			public const int lb_details_description_title = 2131558609;
+			public const int lb_details_description_body = 2131558609;
+			
+			// aapt resource value: 0x7f0d00d0
+			public const int lb_details_description_subtitle = 2131558608;
+			
+			// aapt resource value: 0x7f0d00cf
+			public const int lb_details_description_title = 2131558607;
 			
 			// aapt resource value: 0x7f0d0017
 			public const int lb_focus_animator = 2131558423;
@@ -6735,38 +5470,38 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0019
 			public const int lb_parallax_source = 2131558425;
 			
-			// aapt resource value: 0x7f0d0144
-			public const int lb_results_frame = 2131558724;
+			// aapt resource value: 0x7f0d0142
+			public const int lb_results_frame = 2131558722;
 			
-			// aapt resource value: 0x7f0d0132
-			public const int lb_row_container_header_dock = 2131558706;
-			
-			// aapt resource value: 0x7f0d0145
-			public const int lb_search_bar = 2131558725;
-			
-			// aapt resource value: 0x7f0d0141
-			public const int lb_search_bar_badge = 2131558721;
-			
-			// aapt resource value: 0x7f0d0140
-			public const int lb_search_bar_items = 2131558720;
-			
-			// aapt resource value: 0x7f0d013f
-			public const int lb_search_bar_speech_orb = 2131558719;
+			// aapt resource value: 0x7f0d0130
+			public const int lb_row_container_header_dock = 2131558704;
 			
 			// aapt resource value: 0x7f0d0143
-			public const int lb_search_frame = 2131558723;
+			public const int lb_search_bar = 2131558723;
 			
-			// aapt resource value: 0x7f0d0142
-			public const int lb_search_text_editor = 2131558722;
+			// aapt resource value: 0x7f0d013f
+			public const int lb_search_bar_badge = 2131558719;
 			
-			// aapt resource value: 0x7f0d0148
-			public const int lb_shadow_focused = 2131558728;
+			// aapt resource value: 0x7f0d013e
+			public const int lb_search_bar_items = 2131558718;
+			
+			// aapt resource value: 0x7f0d013d
+			public const int lb_search_bar_speech_orb = 2131558717;
+			
+			// aapt resource value: 0x7f0d0141
+			public const int lb_search_frame = 2131558721;
+			
+			// aapt resource value: 0x7f0d0140
+			public const int lb_search_text_editor = 2131558720;
+			
+			// aapt resource value: 0x7f0d0146
+			public const int lb_shadow_focused = 2131558726;
 			
 			// aapt resource value: 0x7f0d001a
 			public const int lb_shadow_impl = 2131558426;
 			
-			// aapt resource value: 0x7f0d0147
-			public const int lb_shadow_normal = 2131558727;
+			// aapt resource value: 0x7f0d0145
+			public const int lb_shadow_normal = 2131558725;
 			
 			// aapt resource value: 0x7f0d001b
 			public const int lb_slide_transition_value = 2131558427;
@@ -6786,11 +5521,11 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d003d
 			public const int listMode = 2131558461;
 			
-			// aapt resource value: 0x7f0d008f
-			public const int list_item = 2131558543;
+			// aapt resource value: 0x7f0d008d
+			public const int list_item = 2131558541;
 			
-			// aapt resource value: 0x7f0d011a
-			public const int logo = 2131558682;
+			// aapt resource value: 0x7f0d0118
+			public const int logo = 2131558680;
 			
 			// aapt resource value: 0x7f0d0065
 			public const int main = 2131558501;
@@ -6798,50 +5533,50 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0060
 			public const int mainOnly = 2131558496;
 			
-			// aapt resource value: 0x7f0d0113
-			public const int main_icon = 2131558675;
+			// aapt resource value: 0x7f0d0111
+			public const int main_icon = 2131558673;
 			
-			// aapt resource value: 0x7f0d0105
-			public const int main_image = 2131558661;
+			// aapt resource value: 0x7f0d0103
+			public const int main_image = 2131558659;
 			
-			// aapt resource value: 0x7f0d017d
-			public const int masked = 2131558781;
+			// aapt resource value: 0x7f0d017b
+			public const int masked = 2131558779;
 			
 			// aapt resource value: 0x7f0d006b
 			public const int maxLines = 2131558507;
 			
-			// aapt resource value: 0x7f0d013c
-			public const int mediaItemActionsContainer = 2131558716;
-			
-			// aapt resource value: 0x7f0d0138
-			public const int mediaItemDetails = 2131558712;
-			
-			// aapt resource value: 0x7f0d013b
-			public const int mediaItemDuration = 2131558715;
-			
 			// aapt resource value: 0x7f0d013a
-			public const int mediaItemName = 2131558714;
-			
-			// aapt resource value: 0x7f0d0139
-			public const int mediaItemNumberViewFlipper = 2131558713;
-			
-			// aapt resource value: 0x7f0d0137
-			public const int mediaItemRow = 2131558711;
-			
-			// aapt resource value: 0x7f0d0110
-			public const int mediaListHeader = 2131558672;
+			public const int mediaItemActionsContainer = 2131558714;
 			
 			// aapt resource value: 0x7f0d0136
-			public const int mediaRowSelector = 2131558710;
+			public const int mediaItemDetails = 2131558710;
+			
+			// aapt resource value: 0x7f0d0139
+			public const int mediaItemDuration = 2131558713;
+			
+			// aapt resource value: 0x7f0d0138
+			public const int mediaItemName = 2131558712;
+			
+			// aapt resource value: 0x7f0d0137
+			public const int mediaItemNumberViewFlipper = 2131558711;
+			
+			// aapt resource value: 0x7f0d0135
+			public const int mediaItemRow = 2131558709;
+			
+			// aapt resource value: 0x7f0d010e
+			public const int mediaListHeader = 2131558670;
 			
 			// aapt resource value: 0x7f0d0134
-			public const int mediaRowSeparator = 2131558708;
+			public const int mediaRowSelector = 2131558708;
 			
-			// aapt resource value: 0x7f0d0170
-			public const int media_actions = 2131558768;
+			// aapt resource value: 0x7f0d0132
+			public const int mediaRowSeparator = 2131558706;
 			
-			// aapt resource value: 0x7f0d00e1
-			public const int message = 2131558625;
+			// aapt resource value: 0x7f0d016e
+			public const int media_actions = 2131558766;
+			
+			// aapt resource value: 0x7f0d00df
+			public const int message = 2131558623;
 			
 			// aapt resource value: 0x7f0d004f
 			public const int middle = 2131558479;
@@ -6849,95 +5584,95 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d007f
 			public const int mini = 2131558527;
 			
-			// aapt resource value: 0x7f0d0120
-			public const int more_actions_dock = 2131558688;
-			
-			// aapt resource value: 0x7f0d015c
-			public const int mr_art = 2131558748;
-			
-			// aapt resource value: 0x7f0d0151
-			public const int mr_chooser_list = 2131558737;
-			
-			// aapt resource value: 0x7f0d0154
-			public const int mr_chooser_route_desc = 2131558740;
-			
-			// aapt resource value: 0x7f0d0152
-			public const int mr_chooser_route_icon = 2131558738;
-			
-			// aapt resource value: 0x7f0d0153
-			public const int mr_chooser_route_name = 2131558739;
-			
-			// aapt resource value: 0x7f0d0150
-			public const int mr_chooser_title = 2131558736;
-			
-			// aapt resource value: 0x7f0d0159
-			public const int mr_close = 2131558745;
-			
-			// aapt resource value: 0x7f0d015f
-			public const int mr_control_divider = 2131558751;
-			
-			// aapt resource value: 0x7f0d0165
-			public const int mr_control_playback_ctrl = 2131558757;
-			
-			// aapt resource value: 0x7f0d0168
-			public const int mr_control_subtitle = 2131558760;
-			
-			// aapt resource value: 0x7f0d0167
-			public const int mr_control_title = 2131558759;
-			
-			// aapt resource value: 0x7f0d0166
-			public const int mr_control_title_container = 2131558758;
+			// aapt resource value: 0x7f0d011e
+			public const int more_actions_dock = 2131558686;
 			
 			// aapt resource value: 0x7f0d015a
-			public const int mr_custom_control = 2131558746;
+			public const int mr_art = 2131558746;
 			
-			// aapt resource value: 0x7f0d015b
-			public const int mr_default_control = 2131558747;
+			// aapt resource value: 0x7f0d014f
+			public const int mr_chooser_list = 2131558735;
 			
-			// aapt resource value: 0x7f0d0156
-			public const int mr_dialog_area = 2131558742;
+			// aapt resource value: 0x7f0d0152
+			public const int mr_chooser_route_desc = 2131558738;
 			
-			// aapt resource value: 0x7f0d0155
-			public const int mr_expandable_area = 2131558741;
+			// aapt resource value: 0x7f0d0150
+			public const int mr_chooser_route_icon = 2131558736;
 			
-			// aapt resource value: 0x7f0d0169
-			public const int mr_group_expand_collapse = 2131558761;
+			// aapt resource value: 0x7f0d0151
+			public const int mr_chooser_route_name = 2131558737;
 			
-			// aapt resource value: 0x7f0d015d
-			public const int mr_media_main_control = 2131558749;
-			
-			// aapt resource value: 0x7f0d0158
-			public const int mr_name = 2131558744;
-			
-			// aapt resource value: 0x7f0d015e
-			public const int mr_playback_control = 2131558750;
+			// aapt resource value: 0x7f0d014e
+			public const int mr_chooser_title = 2131558734;
 			
 			// aapt resource value: 0x7f0d0157
-			public const int mr_title_bar = 2131558743;
+			public const int mr_close = 2131558743;
 			
-			// aapt resource value: 0x7f0d0160
-			public const int mr_volume_control = 2131558752;
-			
-			// aapt resource value: 0x7f0d0161
-			public const int mr_volume_group_list = 2131558753;
+			// aapt resource value: 0x7f0d015d
+			public const int mr_control_divider = 2131558749;
 			
 			// aapt resource value: 0x7f0d0163
-			public const int mr_volume_item_icon = 2131558755;
+			public const int mr_control_playback_ctrl = 2131558755;
+			
+			// aapt resource value: 0x7f0d0166
+			public const int mr_control_subtitle = 2131558758;
+			
+			// aapt resource value: 0x7f0d0165
+			public const int mr_control_title = 2131558757;
 			
 			// aapt resource value: 0x7f0d0164
-			public const int mr_volume_slider = 2131558756;
+			public const int mr_control_title_container = 2131558756;
+			
+			// aapt resource value: 0x7f0d0158
+			public const int mr_custom_control = 2131558744;
+			
+			// aapt resource value: 0x7f0d0159
+			public const int mr_default_control = 2131558745;
+			
+			// aapt resource value: 0x7f0d0154
+			public const int mr_dialog_area = 2131558740;
+			
+			// aapt resource value: 0x7f0d0153
+			public const int mr_expandable_area = 2131558739;
+			
+			// aapt resource value: 0x7f0d0167
+			public const int mr_group_expand_collapse = 2131558759;
+			
+			// aapt resource value: 0x7f0d015b
+			public const int mr_media_main_control = 2131558747;
+			
+			// aapt resource value: 0x7f0d0156
+			public const int mr_name = 2131558742;
+			
+			// aapt resource value: 0x7f0d015c
+			public const int mr_playback_control = 2131558748;
+			
+			// aapt resource value: 0x7f0d0155
+			public const int mr_title_bar = 2131558741;
+			
+			// aapt resource value: 0x7f0d015e
+			public const int mr_volume_control = 2131558750;
+			
+			// aapt resource value: 0x7f0d015f
+			public const int mr_volume_group_list = 2131558751;
+			
+			// aapt resource value: 0x7f0d0161
+			public const int mr_volume_item_icon = 2131558753;
+			
+			// aapt resource value: 0x7f0d0162
+			public const int mr_volume_slider = 2131558754;
 			
 			// aapt resource value: 0x7f0d0046
 			public const int multiply = 2131558470;
 			
-			// aapt resource value: 0x7f0d014f
-			public const int myButton = 2131558735;
+			// aapt resource value: 0x7f0d014d
+			public const int myButton = 2131558733;
 			
-			// aapt resource value: 0x7f0d00c1
-			public const int navigation_header_container = 2131558593;
+			// aapt resource value: 0x7f0d00bf
+			public const int navigation_header_container = 2131558591;
 			
-			// aapt resource value: 0x7f0d0116
-			public const int navigator_container = 2131558678;
+			// aapt resource value: 0x7f0d0114
+			public const int navigator_container = 2131558676;
 			
 			// aapt resource value: 0x7f0d0059
 			public const int never = 2131558489;
@@ -6948,56 +5683,56 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0032
 			public const int normal = 2131558450;
 			
-			// aapt resource value: 0x7f0d0178
-			public const int notification_background = 2131558776;
+			// aapt resource value: 0x7f0d0176
+			public const int notification_background = 2131558774;
 			
-			// aapt resource value: 0x7f0d0173
-			public const int notification_main_column = 2131558771;
+			// aapt resource value: 0x7f0d0171
+			public const int notification_main_column = 2131558769;
 			
-			// aapt resource value: 0x7f0d0172
-			public const int notification_main_column_container = 2131558770;
+			// aapt resource value: 0x7f0d0170
+			public const int notification_main_column_container = 2131558768;
 			
-			// aapt resource value: 0x7f0d0111
-			public const int onboarding_fragment_root = 2131558673;
+			// aapt resource value: 0x7f0d010f
+			public const int onboarding_fragment_root = 2131558671;
 			
-			// aapt resource value: 0x7f0d0114
-			public const int page_container = 2131558676;
+			// aapt resource value: 0x7f0d0112
+			public const int page_container = 2131558674;
 			
-			// aapt resource value: 0x7f0d0117
-			public const int page_indicator = 2131558679;
+			// aapt resource value: 0x7f0d0115
+			public const int page_indicator = 2131558677;
 			
 			// aapt resource value: 0x7f0d0078
 			public const int parallax = 2131558520;
 			
-			// aapt resource value: 0x7f0d0093
-			public const int parentPanel = 2131558547;
+			// aapt resource value: 0x7f0d0091
+			public const int parentPanel = 2131558545;
 			
 			// aapt resource value: 0x7f0d001e
 			public const int parent_matrix = 2131558430;
 			
-			// aapt resource value: 0x7f0d010e
-			public const int paused = 2131558670;
+			// aapt resource value: 0x7f0d010c
+			public const int paused = 2131558668;
 			
-			// aapt resource value: 0x7f0d011b
-			public const int picker = 2131558683;
+			// aapt resource value: 0x7f0d0119
+			public const int picker = 2131558681;
 			
 			// aapt resource value: 0x7f0d0079
 			public const int pin = 2131558521;
 			
-			// aapt resource value: 0x7f0d012b
-			public const int playback_controls_dock = 2131558699;
-			
-			// aapt resource value: 0x7f0d012a
-			public const int playback_fragment_background = 2131558698;
-			
 			// aapt resource value: 0x7f0d0129
-			public const int playback_fragment_root = 2131558697;
+			public const int playback_controls_dock = 2131558697;
 			
-			// aapt resource value: 0x7f0d011e
-			public const int playback_progress = 2131558686;
+			// aapt resource value: 0x7f0d0128
+			public const int playback_fragment_background = 2131558696;
 			
-			// aapt resource value: 0x7f0d010f
-			public const int playing = 2131558671;
+			// aapt resource value: 0x7f0d0127
+			public const int playback_fragment_root = 2131558695;
+			
+			// aapt resource value: 0x7f0d011c
+			public const int playback_progress = 2131558684;
+			
+			// aapt resource value: 0x7f0d010d
+			public const int playing = 2131558669;
 			
 			// aapt resource value: 0x7f0d0006
 			public const int progress_circular = 2131558406;
@@ -7005,26 +5740,26 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0007
 			public const int progress_horizontal = 2131558407;
 			
-			// aapt resource value: 0x7f0d00a3
-			public const int radio = 2131558563;
+			// aapt resource value: 0x7f0d00a1
+			public const int radio = 2131558561;
 			
 			// aapt resource value: 0x7f0d006d
 			public const int right = 2131558509;
 			
-			// aapt resource value: 0x7f0d0177
-			public const int right_icon = 2131558775;
+			// aapt resource value: 0x7f0d0175
+			public const int right_icon = 2131558773;
 			
-			// aapt resource value: 0x7f0d0174
-			public const int right_side = 2131558772;
+			// aapt resource value: 0x7f0d0172
+			public const int right_side = 2131558770;
 			
-			// aapt resource value: 0x7f0d010a
-			public const int row_content = 2131558666;
+			// aapt resource value: 0x7f0d0108
+			public const int row_content = 2131558664;
 			
-			// aapt resource value: 0x7f0d00df
-			public const int row_header = 2131558623;
+			// aapt resource value: 0x7f0d00dd
+			public const int row_header = 2131558621;
 			
-			// aapt resource value: 0x7f0d0133
-			public const int row_header_description = 2131558707;
+			// aapt resource value: 0x7f0d0131
+			public const int row_header_description = 2131558705;
 			
 			// aapt resource value: 0x7f0d0033
 			public const int satellite = 2131558451;
@@ -7038,8 +5773,8 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0021
 			public const int save_scale_type = 2131558433;
 			
-			// aapt resource value: 0x7f0d00cb
-			public const int scale_frame = 2131558603;
+			// aapt resource value: 0x7f0d00c9
+			public const int scale_frame = 2131558601;
 			
 			// aapt resource value: 0x7f0d0047
 			public const int screen = 2131558471;
@@ -7047,68 +5782,68 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0072
 			public const int scroll = 2131558514;
 			
-			// aapt resource value: 0x7f0d0099
-			public const int scrollIndicatorDown = 2131558553;
+			// aapt resource value: 0x7f0d0097
+			public const int scrollIndicatorDown = 2131558551;
 			
-			// aapt resource value: 0x7f0d0095
-			public const int scrollIndicatorUp = 2131558549;
+			// aapt resource value: 0x7f0d0093
+			public const int scrollIndicatorUp = 2131558547;
 			
-			// aapt resource value: 0x7f0d0096
-			public const int scrollView = 2131558550;
+			// aapt resource value: 0x7f0d0094
+			public const int scrollView = 2131558548;
 			
 			// aapt resource value: 0x7f0d0081
 			public const int scrollable = 2131558529;
 			
-			// aapt resource value: 0x7f0d00ae
-			public const int search_badge = 2131558574;
+			// aapt resource value: 0x7f0d00ac
+			public const int search_badge = 2131558572;
+			
+			// aapt resource value: 0x7f0d00ab
+			public const int search_bar = 2131558571;
 			
 			// aapt resource value: 0x7f0d00ad
-			public const int search_bar = 2131558573;
-			
-			// aapt resource value: 0x7f0d00af
-			public const int search_button = 2131558575;
-			
-			// aapt resource value: 0x7f0d00b4
-			public const int search_close_btn = 2131558580;
-			
-			// aapt resource value: 0x7f0d00b0
-			public const int search_edit_frame = 2131558576;
-			
-			// aapt resource value: 0x7f0d00b6
-			public const int search_go_btn = 2131558582;
-			
-			// aapt resource value: 0x7f0d00b1
-			public const int search_mag_icon = 2131558577;
-			
-			// aapt resource value: 0x7f0d0146
-			public const int search_orb = 2131558726;
+			public const int search_button = 2131558573;
 			
 			// aapt resource value: 0x7f0d00b2
-			public const int search_plate = 2131558578;
+			public const int search_close_btn = 2131558578;
 			
-			// aapt resource value: 0x7f0d00b3
-			public const int search_src_text = 2131558579;
+			// aapt resource value: 0x7f0d00ae
+			public const int search_edit_frame = 2131558574;
 			
-			// aapt resource value: 0x7f0d00b7
-			public const int search_voice_btn = 2131558583;
+			// aapt resource value: 0x7f0d00b4
+			public const int search_go_btn = 2131558580;
 			
-			// aapt resource value: 0x7f0d0127
-			public const int secondary_controls_dock = 2131558695;
+			// aapt resource value: 0x7f0d00af
+			public const int search_mag_icon = 2131558575;
 			
-			// aapt resource value: 0x7f0d00b8
-			public const int select_dialog_listview = 2131558584;
+			// aapt resource value: 0x7f0d0144
+			public const int search_orb = 2131558724;
+			
+			// aapt resource value: 0x7f0d00b0
+			public const int search_plate = 2131558576;
+			
+			// aapt resource value: 0x7f0d00b1
+			public const int search_src_text = 2131558577;
+			
+			// aapt resource value: 0x7f0d00b5
+			public const int search_voice_btn = 2131558581;
+			
+			// aapt resource value: 0x7f0d0125
+			public const int secondary_controls_dock = 2131558693;
+			
+			// aapt resource value: 0x7f0d00b6
+			public const int select_dialog_listview = 2131558582;
 			
 			// aapt resource value: 0x7f0d0062
 			public const int selected = 2131558498;
 			
-			// aapt resource value: 0x7f0d0131
-			public const int separate_time = 2131558705;
+			// aapt resource value: 0x7f0d012f
+			public const int separate_time = 2131558703;
 			
-			// aapt resource value: 0x7f0d011d
-			public const int separator = 2131558685;
+			// aapt resource value: 0x7f0d011b
+			public const int separator = 2131558683;
 			
-			// aapt resource value: 0x7f0d00a2
-			public const int shortcut = 2131558562;
+			// aapt resource value: 0x7f0d00a0
+			public const int shortcut = 2131558560;
 			
 			// aapt resource value: 0x7f0d0041
 			public const int showCustom = 2131558465;
@@ -7119,20 +5854,20 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0043
 			public const int showTitle = 2131558467;
 			
-			// aapt resource value: 0x7f0d00b9
-			public const int smallLabel = 2131558585;
+			// aapt resource value: 0x7f0d00b7
+			public const int smallLabel = 2131558583;
 			
-			// aapt resource value: 0x7f0d00c0
-			public const int snackbar_action = 2131558592;
+			// aapt resource value: 0x7f0d00be
+			public const int snackbar_action = 2131558590;
 			
-			// aapt resource value: 0x7f0d00bf
-			public const int snackbar_text = 2131558591;
+			// aapt resource value: 0x7f0d00bd
+			public const int snackbar_text = 2131558589;
 			
 			// aapt resource value: 0x7f0d0073
 			public const int snap = 2131558515;
 			
-			// aapt resource value: 0x7f0d0092
-			public const int spacer = 2131558546;
+			// aapt resource value: 0x7f0d0090
+			public const int spacer = 2131558544;
 			
 			// aapt resource value: 0x7f0d0008
 			public const int split_action_bar = 2131558408;
@@ -7152,14 +5887,14 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d006e
 			public const int start = 2131558510;
 			
-			// aapt resource value: 0x7f0d016f
-			public const int status_bar_latest_event_content = 2131558767;
+			// aapt resource value: 0x7f0d016d
+			public const int status_bar_latest_event_content = 2131558765;
 			
-			// aapt resource value: 0x7f0d00a4
-			public const int submenuarrow = 2131558564;
+			// aapt resource value: 0x7f0d00a2
+			public const int submenuarrow = 2131558562;
 			
-			// aapt resource value: 0x7f0d00b5
-			public const int submit_area = 2131558581;
+			// aapt resource value: 0x7f0d00b3
+			public const int submit_area = 2131558579;
 			
 			// aapt resource value: 0x7f0d003e
 			public const int tabMode = 2131558462;
@@ -7176,14 +5911,14 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d002e
 			public const int text2 = 2131558446;
 			
-			// aapt resource value: 0x7f0d0098
-			public const int textSpacerNoButtons = 2131558552;
+			// aapt resource value: 0x7f0d0096
+			public const int textSpacerNoButtons = 2131558550;
 			
-			// aapt resource value: 0x7f0d0097
-			public const int textSpacerNoTitle = 2131558551;
+			// aapt resource value: 0x7f0d0095
+			public const int textSpacerNoTitle = 2131558549;
 			
-			// aapt resource value: 0x7f0d00c6
-			public const int text_input_password_toggle = 2131558598;
+			// aapt resource value: 0x7f0d00c4
+			public const int text_input_password_toggle = 2131558596;
 			
 			// aapt resource value: 0x7f0d0027
 			public const int textinput_counter = 2131558439;
@@ -7191,41 +5926,41 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0028
 			public const int textinput_error = 2131558440;
 			
-			// aapt resource value: 0x7f0d012f
-			public const int thumbs_row = 2131558703;
+			// aapt resource value: 0x7f0d012d
+			public const int thumbs_row = 2131558701;
 			
-			// aapt resource value: 0x7f0d0175
-			public const int time = 2131558773;
+			// aapt resource value: 0x7f0d0173
+			public const int time = 2131558771;
 			
 			// aapt resource value: 0x7f0d002f
 			public const int title = 2131558447;
 			
-			// aapt resource value: 0x7f0d009f
-			public const int titleDividerNoCustom = 2131558559;
-			
-			// aapt resource value: 0x7f0d0149
-			public const int title_badge = 2131558729;
-			
-			// aapt resource value: 0x7f0d014a
-			public const int title_orb = 2131558730;
-			
 			// aapt resource value: 0x7f0d009d
-			public const int title_template = 2131558557;
+			public const int titleDividerNoCustom = 2131558557;
 			
-			// aapt resource value: 0x7f0d0109
-			public const int title_text = 2131558665;
+			// aapt resource value: 0x7f0d0147
+			public const int title_badge = 2131558727;
+			
+			// aapt resource value: 0x7f0d0148
+			public const int title_orb = 2131558728;
+			
+			// aapt resource value: 0x7f0d009b
+			public const int title_template = 2131558555;
+			
+			// aapt resource value: 0x7f0d0107
+			public const int title_text = 2131558663;
 			
 			// aapt resource value: 0x7f0d005c
 			public const int top = 2131558492;
 			
-			// aapt resource value: 0x7f0d009c
-			public const int topPanel = 2131558556;
+			// aapt resource value: 0x7f0d009a
+			public const int topPanel = 2131558554;
 			
-			// aapt resource value: 0x7f0d0122
-			public const int total_time = 2131558690;
+			// aapt resource value: 0x7f0d0120
+			public const int total_time = 2131558688;
 			
-			// aapt resource value: 0x7f0d00bd
-			public const int touch_outside = 2131558589;
+			// aapt resource value: 0x7f0d00bb
+			public const int touch_outside = 2131558587;
 			
 			// aapt resource value: 0x7f0d001c
 			public const int transitionPosition = 2131558428;
@@ -7245,8 +5980,8 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0026
 			public const int transition_transform = 2131558438;
 			
-			// aapt resource value: 0x7f0d0130
-			public const int transport_row = 2131558704;
+			// aapt resource value: 0x7f0d012e
+			public const int transport_row = 2131558702;
 			
 			// aapt resource value: 0x7f0d004b
 			public const int uniform = 2131558475;
@@ -7257,20 +5992,20 @@ namespace Xrf.CarouselDemo.Android
 			// aapt resource value: 0x7f0d0044
 			public const int useLogo = 2131558468;
 			
-			// aapt resource value: 0x7f0d014e
-			public const int video_surface = 2131558734;
+			// aapt resource value: 0x7f0d014c
+			public const int video_surface = 2131558732;
 			
-			// aapt resource value: 0x7f0d00d5
-			public const int video_surface_container = 2131558613;
+			// aapt resource value: 0x7f0d00d3
+			public const int video_surface_container = 2131558611;
 			
 			// aapt resource value: 0x7f0d0029
 			public const int view_offset_helper = 2131558441;
 			
-			// aapt resource value: 0x7f0d017c
-			public const int visible = 2131558780;
+			// aapt resource value: 0x7f0d017a
+			public const int visible = 2131558778;
 			
-			// aapt resource value: 0x7f0d0162
-			public const int volume_item_container = 2131558754;
+			// aapt resource value: 0x7f0d0160
+			public const int volume_item_container = 2131558752;
 			
 			// aapt resource value: 0x7f0d0039
 			public const int wide = 2131558457;
@@ -12195,60 +10930,6 @@ namespace Xrf.CarouselDemo.Android
 			
 			// aapt resource value: 12
 			public const int SearchView_voiceIcon = 12;
-			
-			public static int[] SfCarousel = new int[] {
-					2130772549,
-					2130772550,
-					2130772551,
-					2130772552,
-					2130772553,
-					2130772554,
-					2130772555,
-					2130772556,
-					2130772557,
-					2130772558,
-					2130772559,
-					2130772560,
-					2130772561};
-			
-			// aapt resource value: 12
-			public const int SfCarousel_carouselAllowLoadMore = 12;
-			
-			// aapt resource value: 9
-			public const int SfCarousel_carouselDuration = 9;
-			
-			// aapt resource value: 1
-			public const int SfCarousel_carouselEnableVirtualization = 1;
-			
-			// aapt resource value: 5
-			public const int SfCarousel_carouselItemHeight = 5;
-			
-			// aapt resource value: 2
-			public const int SfCarousel_carouselItemSpacing = 2;
-			
-			// aapt resource value: 6
-			public const int SfCarousel_carouselItemWidth = 6;
-			
-			// aapt resource value: 11
-			public const int SfCarousel_carouselLoadMoreItemsCount = 11;
-			
-			// aapt resource value: 3
-			public const int SfCarousel_carouselOffset = 3;
-			
-			// aapt resource value: 7
-			public const int SfCarousel_carouselRotationAngle = 7;
-			
-			// aapt resource value: 10
-			public const int SfCarousel_carouselScaleOffset = 10;
-			
-			// aapt resource value: 4
-			public const int SfCarousel_carouselSelectedIndex = 4;
-			
-			// aapt resource value: 8
-			public const int SfCarousel_carouselSelectedItemOffset = 8;
-			
-			// aapt resource value: 0
-			public const int SfCarousel_carouselViewMode = 0;
 			
 			public static int[] SignInButton = new int[] {
 					2130771994,

@@ -12,10 +12,6 @@ open DynamicData
 open ObservableExtensions
 open LocatorDefaults
 
-type Postcard() =
-    member val Image = String.Empty with get, set
-    member val Description = String.Empty with get, set
-
 type DashboardViewModel(?host: IScreen) =
     inherit PageViewModel()
     let host = LocateIfNone host
