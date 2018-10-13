@@ -6,9 +6,10 @@ open XamarinForms.Reactive.FSharp
 open ViewHelpers
 open System
 
-type Postcard() =
-    member val Image = String.Empty with get, set
-    member val Description = String.Empty with get, set
+type Postcard = {
+    Image: string
+    Description: string
+}
 
 type PostcardDisplay(theme: Theme) =
     inherit Grid()
