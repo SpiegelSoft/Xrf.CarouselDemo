@@ -34,6 +34,16 @@ type DashboardViewModel(?host: IScreen) =
     member val Images = new ObservableCollectionExtended<Postcard>() :> IObservableCollection<Postcard>
     override this.SetUpCommands() =
         images.Connect().ObserveOn(RxApp.MainThreadScheduler).Bind(this.Images).Subscribe() |> disposeWith this.PageDisposables |> ignore
+        
+        // Uncomment this line and comment out the rest of the method to see the expected behaviour of the
+        // component. Images implements IObservableCollection<Postcard>, which extends INotifyCollectionChanged<Postcard>,
+        // and so I would expect the slideview to populate itself when the collection is changed after the page has loaded.
+        // This method is called in the PageAppearing() handler, so by uncommenting the line below, we are populating the
+        // collection before the slideview is rendered. However, in a typical use-case, I would like to load the page and then
+        // populate the collection asynchronously.
+
+        //images.AddRange([|postcard 1; postcard 2; postcard 3; postcard 4; postcard 5; postcard 6|])
+        
         let generateImages(_:Unit) = async { return [|postcard 1; postcard 2; postcard 3; postcard 4; postcard 5; postcard 6|] }
         let generateImagesCommand = createFromAsync(generateImages, None)
         generateImagesCommand.Execute().Subscribe(images.AddRange) |> disposeWith this.PageDisposables |> ignore

@@ -12,8 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Syncfusion.Xamarin.SfCarousel" Version="16.2.0.42" />
     <PackageReference Include="System.Threading.Tasks.Extensions" Version="4.5.1" />
+    <PackageReference Include="Telerik.UI.for.Xamarin.Trial" Version="2018.3.1018.1" />
     <PackageReference Include="XamarinForms.Reactive.FSharp" Version="1.0.0.39" />
   </ItemGroup>
 

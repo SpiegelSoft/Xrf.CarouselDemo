@@ -14,8 +14,6 @@ open Xamarin.Forms.Platform.Android
 open Xamarin.Forms
 open XamarinForms.Reactive.FSharp
 
-open Syncfusion.Licensing
-
 type Resources = Xrf.CarouselDemo.Android.Resource
 
 open Xrf.Carousel.Common
@@ -47,4 +45,3 @@ type MainActivity () =
         let app = new App<IXrfPlatform>(platform, new UiContext(this), createDashboardViewModel)
         app.Init(Themes.DefaultTheme)
         base.LoadApplication app
-        SyncfusionLicenseProvider.RegisterLicense(platform.GetMetaDataEntry("syncfusion.licensekey"))

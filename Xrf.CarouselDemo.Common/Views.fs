@@ -2,12 +2,11 @@
 
 open XamarinForms.Reactive.FSharp
 
-open Syncfusion.SfCarousel.XForms
 open Themes
 open Xamarin.Forms
 open Xrf.Carousel.Common
 
-open UiExtensions
+open UiComponentExtensions
 open ViewHelpers
 
 type DashboardView(theme: Theme) =
@@ -16,7 +15,7 @@ type DashboardView(theme: Theme) =
     override this.CreateContent() =
         theme.GenerateGrid([Star 1], [Star 1]) |> withRow(
             [|
-                theme.GenerateCarousel()
-                    |> withCarouselItemsSource this.ViewModel.Images
-                    |> withCarouselItemTemplate(fun () -> PostcardDisplay(theme) :> View)
+                theme.GenerateSlideView()
+                    |> withSlideViewItemsSource this.ViewModel.Images
+                    |> withSlideViewItemTemplate(fun () -> PostcardDisplay(theme) :> View)
             |]) |> createFromRows :> View

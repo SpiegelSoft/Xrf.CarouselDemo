@@ -32,28 +32,22 @@ type PostcardDisplay(theme: Theme) =
             image.Source <- null
             descriptionLabel.Text <- null
 
-module UiExtensions =
-    open Syncfusion.SfCarousel.XForms
-    open System
+module UiComponentExtensions =
+    open Telerik.XamarinForms.Primitives
 
     type Theme with
-        member __.GenerateCarousel([<ParamArray>] setUp: (SfCarousel -> unit)[]) = new SfCarousel() |> apply setUp
-        member __.GenerateCarousel(view, property, [<ParamArray>] setUp: (SfCarousel -> unit)[]) = new SfCarousel() |> initialise property view |> apply setUp
+        member __.GenerateSlideView([<ParamArray>] setUp: (RadSlideView -> unit)[]) = new RadSlideView() |> apply setUp
+        member __.GenerateSlideView(view, property, [<ParamArray>] setUp: (RadSlideView -> unit)[]) = new RadSlideView() |> initialise property view |> apply setUp
 
 module ViewHelpers =
-    open Syncfusion.SfCarousel.XForms
-    open System.Linq
-    open XamarinForms.Reactive.FSharp.ObservableExtensions
-    open ReactiveUI
-    open Xamarin.Forms
+    open Telerik.XamarinForms.Primitives
 
-    let withCarouselItemsSource (source:'a seq) (element: #SfCarousel) = element.ItemsSource <- source |> Seq.cast<obj>; element
-    let withSelectedIndex selectedIndex (element: #SfCarousel) = element.SelectedIndex <- selectedIndex; element
-    let withItemSpacing spacing (element: #SfCarousel) = element.ItemSpacing <- spacing; element
-    let withFlowDirection flowDirection (element: #SfCarousel) = element.FlowDirection <- flowDirection; element
-    let withViewMode viewMode (element: #SfCarousel) = element.ViewMode <- viewMode; element
-    let withCarouselBinding bindingContext (element: #SfCarousel) = element.BindingContext <- bindingContext; element
-    let withCarouselItemTemplate (createTemplate: unit -> View) (element: #SfCarousel) = element.ItemTemplate <- new DataTemplate(fun() -> createTemplate() :> obj); element
-    let withCarouselTypeTemplate<'view when 'view :> View> (element: SfCarousel) = element.ItemTemplate <- new DataTemplate(typeof<'view>); element
-    let withItemHeight itemHeight (element: #SfCarousel) = element.ItemHeight <- itemHeight; element
-    let withItemWidth itemWidth (element: #SfCarousel) = element.ItemWidth <- itemWidth; element
+    let withSlideViewItemsSource (source:'a seq) (element: #RadSlideView) = element.ItemsSource <- source |> Seq.cast<obj>; element
+    let withSlideViewItemTemplate (createTemplate: unit -> View) (element: #RadSlideView) = element.ItemTemplate <- new DataTemplate(fun() -> createTemplate() :> obj); element
+    let withSlideViewTypeTemplate<'view when 'view :> View> (element: RadSlideView) = element.ItemTemplate <- new DataTemplate(typeof<'view>); element
+    let animated (element: #RadSlideView) = element.IsAnimated <- true; element
+    let withHorizontalContentOptions options (element: #RadSlideView) = element.HorizontalContentOptions <- options; element
+    let withVerticalContentOptions options (element: #RadSlideView) = element.VerticalContentOptions <- options; element
+    let withSlideButtonsSize size (element: #RadSlideView) = element.SlideButtonsSize <- size; element
+    let withSelectedIndicatorFontSize size (element: #RadSlideView) = element.SelectedIndicatorFontSize <- size; element
+    let withIndicatorFontSize size (element: #RadSlideView) = element.IndicatorFontSize <- size; element
