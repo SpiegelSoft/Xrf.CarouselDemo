@@ -25,6 +25,7 @@ module ReactiveCommands =
         create factory canExecute
 
 open ReactiveCommands
+open Xamarin.Forms
 
 type DashboardViewModel(?host: IScreen) =
     inherit PageViewModel()
@@ -46,7 +47,9 @@ type DashboardViewModel(?host: IScreen) =
         
         let generateImages(_:Unit) = async { return [|postcard 1; postcard 2; postcard 3; postcard 4; postcard 5; postcard 6|] }
         let generateImagesCommand = createFromAsync(generateImages, None)
-        generateImagesCommand.Execute().Subscribe(images.AddRange) |> disposeWith this.PageDisposables |> ignore
+        let addImagesOnUiThread i =
+            Device.BeginInvokeOnMainThread(fun () -> images.AddRange i)
+        generateImagesCommand.Execute().Subscribe(addImagesOnUiThread) |> disposeWith this.PageDisposables |> ignore
     interface IRoutableViewModel with
         member __.HostScreen = host
         member __.UrlPathSegment = "Dashboard"

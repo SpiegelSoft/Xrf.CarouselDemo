@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <Import Project="..\packages\Xamarin.Forms.3.2.0.871581\build\netstandard2.0\Xamarin.Forms.props" Condition="Exists('..\packages\Xamarin.Forms.3.2.0.871581\build\netstandard2.0\Xamarin.Forms.props')" />
+  <Import Project="..\packages\Xamarin.Forms.3.3.0.912540\build\Xamarin.Forms.props" Condition="Exists('..\packages\Xamarin.Forms.3.3.0.912540\build\Xamarin.Forms.props')" />
   <Import Project="..\packages\Xamarin.Build.Download.0.4.11\build\Xamarin.Build.Download.props" Condition="Exists('..\packages\Xamarin.Build.Download.0.4.11\build\Xamarin.Build.Download.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -37,6 +37,10 @@
     <Tailcalls>False</Tailcalls>
     <PlatformTarget>
     </PlatformTarget>
+    <AotAssemblies>false</AotAssemblies>
+    <EnableLLVM>false</EnableLLVM>
+    <BundleAssemblies>false</BundleAssemblies>
+    <AndroidEnableMultiDex>true</AndroidEnableMultiDex>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>PdbOnly</DebugType>
@@ -103,10 +107,10 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="DynamicData">
-      <HintPath>..\packages\DynamicData.6.5.1.2479\lib\netstandard2.0\DynamicData.dll</HintPath>
+      <HintPath>..\packages\DynamicData.6.6.0.2492\lib\netstandard2.0\DynamicData.dll</HintPath>
     </Reference>
     <Reference Include="FormsViewGroup">
-      <HintPath>..\packages\Xamarin.Forms.3.2.0.871581\lib\MonoAndroid10\FormsViewGroup.dll</HintPath>
+      <HintPath>..\packages\Xamarin.Forms.3.3.0.912540\lib\MonoAndroid10\FormsViewGroup.dll</HintPath>
     </Reference>
     <Reference Include="FSharp.Core">
       <HintPath>..\packages\FSharp.Core.4.5.2\lib\netstandard1.6\FSharp.Core.dll</HintPath>
@@ -128,13 +132,13 @@
       <HintPath>..\packages\ReactiveUI.XamForms.9.0.1\lib\netstandard2.0\ReactiveUI.XamForms.dll</HintPath>
     </Reference>
     <Reference Include="SkiaSharp">
-      <HintPath>..\packages\SkiaSharp.1.59.3\lib\MonoAndroid\SkiaSharp.dll</HintPath>
+      <HintPath>..\packages\SkiaSharp.1.60.3\lib\MonoAndroid\SkiaSharp.dll</HintPath>
     </Reference>
     <Reference Include="SkiaSharp.Views.Android">
-      <HintPath>..\packages\SkiaSharp.Views.1.59.3\lib\MonoAndroid\SkiaSharp.Views.Android.dll</HintPath>
+      <HintPath>..\packages\SkiaSharp.Views.1.60.3\lib\MonoAndroid\SkiaSharp.Views.Android.dll</HintPath>
     </Reference>
     <Reference Include="SkiaSharp.Views.Forms">
-      <HintPath>..\packages\SkiaSharp.Views.Forms.1.59.3\lib\MonoAndroid\SkiaSharp.Views.Forms.dll</HintPath>
+      <HintPath>..\packages\SkiaSharp.Views.Forms.1.60.3\lib\MonoAndroid\SkiaSharp.Views.Forms.dll</HintPath>
     </Reference>
     <Reference Include="Splat">
       <HintPath>..\packages\Splat.5.0.2\lib\monoandroid80\Splat.dll</HintPath>
@@ -146,22 +150,22 @@
       <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\ReferenceAssemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Numerics.dll</HintPath>
     </Reference>
     <Reference Include="System.Reactive">
-      <HintPath>..\packages\System.Reactive.4.1.1\lib\netstandard2.0\System.Reactive.dll</HintPath>
+      <HintPath>..\packages\System.Reactive.4.1.2\lib\netstandard2.0\System.Reactive.dll</HintPath>
     </Reference>
     <Reference Include="System.Reactive.Core">
-      <HintPath>..\packages\System.Reactive.Core.4.1.1\lib\netstandard2.0\System.Reactive.Core.dll</HintPath>
+      <HintPath>..\packages\System.Reactive.Core.4.1.2\lib\netstandard2.0\System.Reactive.Core.dll</HintPath>
     </Reference>
     <Reference Include="System.Reactive.Interfaces">
-      <HintPath>..\packages\System.Reactive.Interfaces.4.1.1\lib\netstandard2.0\System.Reactive.Interfaces.dll</HintPath>
+      <HintPath>..\packages\System.Reactive.Interfaces.4.1.2\lib\netstandard2.0\System.Reactive.Interfaces.dll</HintPath>
     </Reference>
     <Reference Include="System.Reactive.Linq">
-      <HintPath>..\packages\System.Reactive.Linq.4.1.1\lib\netstandard2.0\System.Reactive.Linq.dll</HintPath>
+      <HintPath>..\packages\System.Reactive.Linq.4.1.2\lib\netstandard2.0\System.Reactive.Linq.dll</HintPath>
     </Reference>
     <Reference Include="System.Reactive.PlatformServices">
-      <HintPath>..\packages\System.Reactive.PlatformServices.4.1.1\lib\netstandard2.0\System.Reactive.PlatformServices.dll</HintPath>
+      <HintPath>..\packages\System.Reactive.PlatformServices.4.1.2\lib\netstandard2.0\System.Reactive.PlatformServices.dll</HintPath>
     </Reference>
     <Reference Include="System.Reactive.Providers">
-      <HintPath>..\packages\System.Reactive.Providers.4.1.1\lib\netstandard2.0\System.Reactive.Providers.dll</HintPath>
+      <HintPath>..\packages\System.Reactive.Providers.4.1.2\lib\netstandard2.0\System.Reactive.Providers.dll</HintPath>
     </Reference>
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml" />
@@ -232,7 +236,7 @@
       <HintPath>..\packages\Xamarin.Android.Arch.Lifecycle.Runtime.1.0.3.1\lib\MonoAndroid80\Xamarin.Android.Arch.Lifecycle.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Android.FSharp.ResourceProvider.Runtime">
-      <HintPath>..\packages\Xamarin.Android.FSharp.ResourceProvider.1.0.0.25\lib\Xamarin.Android.FSharp.ResourceProvider.Runtime.dll</HintPath>
+      <HintPath>..\packages\Xamarin.Android.FSharp.ResourceProvider.1.0.0.28\lib\monoandroid81\Xamarin.Android.FSharp.ResourceProvider.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Android.Support.Animated.Vector.Drawable">
       <HintPath>..\packages\Xamarin.Android.Support.Animated.Vector.Drawable.27.0.2.1\lib\MonoAndroid81\Xamarin.Android.Support.Animated.Vector.Drawable.dll</HintPath>
@@ -286,22 +290,22 @@
       <HintPath>..\packages\Xamarin.Android.Support.Vector.Drawable.27.0.2.1\lib\MonoAndroid81\Xamarin.Android.Support.Vector.Drawable.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Forms.Core">
-      <HintPath>..\packages\Xamarin.Forms.3.2.0.871581\lib\MonoAndroid10\Xamarin.Forms.Core.dll</HintPath>
+      <HintPath>..\packages\Xamarin.Forms.3.3.0.912540\lib\MonoAndroid10\Xamarin.Forms.Core.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Forms.Maps">
-      <HintPath>..\packages\Xamarin.Forms.Maps.3.2.0.871581\lib\MonoAndroid10\Xamarin.Forms.Maps.dll</HintPath>
+      <HintPath>..\packages\Xamarin.Forms.Maps.3.3.0.912540\lib\MonoAndroid10\Xamarin.Forms.Maps.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Forms.Maps.Android">
-      <HintPath>..\packages\Xamarin.Forms.Maps.3.2.0.871581\lib\MonoAndroid10\Xamarin.Forms.Maps.Android.dll</HintPath>
+      <HintPath>..\packages\Xamarin.Forms.Maps.3.3.0.912540\lib\MonoAndroid10\Xamarin.Forms.Maps.Android.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Forms.Platform">
-      <HintPath>..\packages\Xamarin.Forms.3.2.0.871581\lib\MonoAndroid10\Xamarin.Forms.Platform.dll</HintPath>
+      <HintPath>..\packages\Xamarin.Forms.3.3.0.912540\lib\MonoAndroid10\Xamarin.Forms.Platform.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Forms.Platform.Android">
-      <HintPath>..\packages\Xamarin.Forms.3.2.0.871581\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll</HintPath>
+      <HintPath>..\packages\Xamarin.Forms.3.3.0.912540\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Forms.Xaml">
-      <HintPath>..\packages\Xamarin.Forms.3.2.0.871581\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll</HintPath>
+      <HintPath>..\packages\Xamarin.Forms.3.3.0.912540\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.GooglePlayServices.Base">
       <HintPath>..\packages\Xamarin.GooglePlayServices.Base.60.1142.1\lib\MonoAndroid80\Xamarin.GooglePlayServices.Base.dll</HintPath>
@@ -316,7 +320,7 @@
       <HintPath>..\packages\Xamarin.GooglePlayServices.Tasks.60.1142.1\lib\MonoAndroid80\Xamarin.GooglePlayServices.Tasks.dll</HintPath>
     </Reference>
     <Reference Include="XamarinForms.Reactive.FSharp">
-      <HintPath>..\packages\XamarinForms.Reactive.FSharp.1.0.0.39\lib\netstandard2.0\XamarinForms.Reactive.FSharp.dll</HintPath>
+      <HintPath>..\packages\XamarinForms.Reactive.FSharp.1.0.0.40\lib\netstandard2.0\XamarinForms.Reactive.FSharp.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -357,8 +361,8 @@
     <Error Condition="!Exists('..\packages\Xamarin.Build.Download.0.4.11\build\Xamarin.Build.Download.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Xamarin.Build.Download.0.4.11\build\Xamarin.Build.Download.props'))" />
     <Error Condition="!Exists('..\packages\Xamarin.Build.Download.0.4.11\build\Xamarin.Build.Download.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Xamarin.Build.Download.0.4.11\build\Xamarin.Build.Download.targets'))" />
     <Error Condition="!Exists('..\packages\Xamarin.Android.Support.v17.Leanback.27.0.2.1\build\MonoAndroid81\Xamarin.Android.Support.v17.Leanback.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Xamarin.Android.Support.v17.Leanback.27.0.2.1\build\MonoAndroid81\Xamarin.Android.Support.v17.Leanback.targets'))" />
-    <Error Condition="!Exists('..\packages\Xamarin.Forms.3.2.0.871581\build\netstandard2.0\Xamarin.Forms.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Xamarin.Forms.3.2.0.871581\build\netstandard2.0\Xamarin.Forms.props'))" />
-    <Error Condition="!Exists('..\packages\Xamarin.Forms.3.2.0.871581\build\netstandard2.0\Xamarin.Forms.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Xamarin.Forms.3.2.0.871581\build\netstandard2.0\Xamarin.Forms.targets'))" />
+    <Error Condition="!Exists('..\packages\Xamarin.Forms.3.3.0.912540\build\Xamarin.Forms.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Xamarin.Forms.3.3.0.912540\build\Xamarin.Forms.props'))" />
+    <Error Condition="!Exists('..\packages\Xamarin.Forms.3.3.0.912540\build\Xamarin.Forms.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Xamarin.Forms.3.3.0.912540\build\Xamarin.Forms.targets'))" />
   </Target>
   <Import Project="..\packages\Xamarin.GooglePlayServices.Basement.60.1142.1\build\MonoAndroid80\Xamarin.GooglePlayServices.Basement.targets" Condition="Exists('..\packages\Xamarin.GooglePlayServices.Basement.60.1142.1\build\MonoAndroid80\Xamarin.GooglePlayServices.Basement.targets')" />
   <Import Project="..\packages\Xamarin.GooglePlayServices.Tasks.60.1142.1\build\MonoAndroid80\Xamarin.GooglePlayServices.Tasks.targets" Condition="Exists('..\packages\Xamarin.GooglePlayServices.Tasks.60.1142.1\build\MonoAndroid80\Xamarin.GooglePlayServices.Tasks.targets')" />
@@ -386,5 +390,5 @@
   <Import Project="..\packages\Xamarin.Android.Support.v7.MediaRouter.27.0.2.1\build\MonoAndroid81\Xamarin.Android.Support.v7.MediaRouter.targets" Condition="Exists('..\packages\Xamarin.Android.Support.v7.MediaRouter.27.0.2.1\build\MonoAndroid81\Xamarin.Android.Support.v7.MediaRouter.targets')" />
   <Import Project="..\packages\Xamarin.Build.Download.0.4.11\build\Xamarin.Build.Download.targets" Condition="Exists('..\packages\Xamarin.Build.Download.0.4.11\build\Xamarin.Build.Download.targets')" />
   <Import Project="..\packages\Xamarin.Android.Support.v17.Leanback.27.0.2.1\build\MonoAndroid81\Xamarin.Android.Support.v17.Leanback.targets" Condition="Exists('..\packages\Xamarin.Android.Support.v17.Leanback.27.0.2.1\build\MonoAndroid81\Xamarin.Android.Support.v17.Leanback.targets')" />
-  <Import Project="..\packages\Xamarin.Forms.3.2.0.871581\build\netstandard2.0\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.3.2.0.871581\build\netstandard2.0\Xamarin.Forms.targets')" />
+  <Import Project="..\packages\Xamarin.Forms.3.3.0.912540\build\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.3.3.0.912540\build\Xamarin.Forms.targets')" />
 </Project>
