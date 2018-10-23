@@ -34,7 +34,9 @@ type DashboardViewModel(?host: IScreen) =
     let images = new SourceList<Postcard>()
     member val Images = new ObservableCollectionExtended<Postcard>() :> IObservableCollection<Postcard>
     override this.SetUpCommands() =
-        images.Connect().ObserveOn(RxApp.MainThreadScheduler).Bind(this.Images).Subscribe() |> disposeWith this.PageDisposables |> ignore
+        let handle (changes: IChangeSet<Postcard>) =
+            changes |> ignore
+        images.Connect().ObserveOn(RxApp.MainThreadScheduler).Bind(this.Images).Subscribe(handle) |> disposeWith this.PageDisposables |> ignore
         
         // Uncomment this line and comment out the rest of the method to see the expected behaviour of the
         // component. Images implements IObservableCollection<Postcard>, which extends INotifyCollectionChanged<Postcard>,
@@ -47,9 +49,7 @@ type DashboardViewModel(?host: IScreen) =
         
         let generateImages(_:Unit) = async { return [|postcard 1; postcard 2; postcard 3; postcard 4; postcard 5; postcard 6|] }
         let generateImagesCommand = createFromAsync(generateImages, None)
-        let addImagesOnUiThread i =
-            Device.BeginInvokeOnMainThread(fun () -> images.AddRange i)
-        generateImagesCommand.Execute().Subscribe(addImagesOnUiThread) |> disposeWith this.PageDisposables |> ignore
+        generateImagesCommand.Execute().Subscribe(images.AddRange) |> disposeWith this.PageDisposables |> ignore
     interface IRoutableViewModel with
         member __.HostScreen = host
         member __.UrlPathSegment = "Dashboard"
