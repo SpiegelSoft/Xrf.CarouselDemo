@@ -32,6 +32,11 @@ type PostcardDisplay(theme: Theme) =
             image.Source <- null
             descriptionLabel.Text <- null
 
+type PostcardDisplayCell(theme) =
+    inherit ViewCell()
+    do base.View <- new PostcardDisplay(theme)
+    override this.OnBindingContextChanged() = this.View.BindingContext <- this.BindingContext
+
 module UiComponentExtensions =
     open Telerik.XamarinForms.Primitives
 

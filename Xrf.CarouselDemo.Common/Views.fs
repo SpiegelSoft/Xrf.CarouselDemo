@@ -15,7 +15,7 @@ type DashboardView(theme: Theme) =
     override this.CreateContent() =
         theme.GenerateGrid([Star 1], [Star 1]) |> withRow(
             [|
-                theme.GenerateSlideView()
-                    |> withSlideViewItemsSource this.ViewModel.Images
-                    |> withSlideViewItemTemplate(fun () -> PostcardDisplay(theme) :> View)
+                theme.GenerateListView(ListViewCachingStrategy.RetainElement)
+                    |> withItemsSource this.ViewModel.Images
+                    |> withCellTemplate(fun () -> PostcardDisplayCell(theme))
             |]) |> createFromRows :> View
