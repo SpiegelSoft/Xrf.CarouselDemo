@@ -42,7 +42,13 @@ module UiComponentExtensions =
 module ViewHelpers =
     open Telerik.XamarinForms.Primitives
 
-    let withSlideViewItemsSource (source:'a seq) (element: #RadSlideView) = element.ItemsSource <- source |> Seq.cast<obj>; element
+    // Original assignment
+    // let withSlideViewItemsSource (source:'a seq) (element: #RadSlideView) = element.ItemsSource <- source |> Seq.cast<obj>; element
+    
+    // Fix
+    let withSlideViewItemsSource (source:'a seq) (element: #RadSlideView) = element.ItemsSource <- source; element
+    
+    
     let withSlideViewItemTemplate (createTemplate: unit -> View) (element: #RadSlideView) = element.ItemTemplate <- new DataTemplate(fun() -> createTemplate() :> obj); element
     let withSlideViewTypeTemplate<'view when 'view :> View> (element: RadSlideView) = element.ItemTemplate <- new DataTemplate(typeof<'view>); element
     let animated (element: #RadSlideView) = element.IsAnimated <- true; element
